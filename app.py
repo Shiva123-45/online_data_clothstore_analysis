@@ -16,6 +16,12 @@ st.markdown("Welcome to the Ultimate Retail Intelligence Engine. We've combined 
 # --- Load Data Engine ---
 @st.cache_data
 def load_data():
+    # --- DEBUG SECTION: Let's see what the cloud sees ---
+    root_files = os.listdir('.')
+    data_files = []
+    if os.path.isdir('data'):
+        data_files = os.listdir('data')
+    
     # List of files we absolutely need
     required_files = ['customers.csv', 'products.csv', 'transactions.csv']
     paths = ['data/', '']
@@ -54,7 +60,16 @@ def load_data():
     
     # If we get here, something is missing
     st.error(f"🚨 Missing critical data files: {', '.join(missing_files)}")
-    st.info("💡 **Check GitHub:** Ensure these files are uploaded to your repository. Remember that Linux (Cloud) is case-sensitive (e.g., 'customers.csv' is NOT the same as 'Customers.csv').")
+    
+    # Show the user what folders we DO see to help them fix it
+    with st.expander("🛠️ Debug Information (Check your GitHub structure)"):
+        st.write("**Files in Root Folder:**", root_files)
+        if data_files:
+            st.write("**Files in 'data/' Folder:**", data_files)
+        else:
+            st.write("❌ No folder named 'data' was found.")
+            
+    st.info("💡 **Check GitHub:** Ensure these files are uploaded to your repository. **Remember that Linux (Cloud) is case-sensitive** (e.g., 'customers.csv' is NOT the same as 'Customers.csv').")
     return None, None, None
 
 customers, products, transactions = load_data()
