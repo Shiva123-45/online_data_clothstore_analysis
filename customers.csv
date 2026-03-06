@@ -1,0 +1,2001 @@
+Customer_ID,Age,Gender,City,Persona
+1,56,Female,Kolkata,Premium_Loyalist
+2,69,Male,Los Angeles,Practical_Buyer
+3,46,Female,Los Angeles,Premium_Loyalist
+4,32,Other,Chicago,Premium_Loyalist
+5,60,Male,Kolkata,Premium_Loyalist
+6,25,Male,Seattle,Bargain_Hunter
+7,38,Male,New York,Premium_Loyalist
+8,56,Female,Los Angeles,Premium_Loyalist
+9,36,Female,Kolkata,Premium_Loyalist
+10,40,Male,Ahmedabad,Premium_Loyalist
+11,28,Female,Pune,Trend_Setter
+12,28,Male,Kolkata,Trend_Setter
+13,41,Male,Ahmedabad,Premium_Loyalist
+14,53,Female,New York,Practical_Buyer
+15,57,Male,Miami,Practical_Buyer
+16,41,Female,Ahmedabad,Premium_Loyalist
+17,20,Male,Kolkata,Bargain_Hunter
+18,39,Other,Kolkata,Premium_Loyalist
+19,19,Male,Denver,Bargain_Hunter
+20,41,Male,Ahmedabad,Premium_Loyalist
+21,61,Female,Boston,Premium_Loyalist
+22,47,Male,Delhi,Premium_Loyalist
+23,55,Other,New York,Premium_Loyalist
+24,19,Female,Denver,Trend_Setter
+25,38,Female,Kolkata,Practical_Buyer
+26,50,Female,Miami,Premium_Loyalist
+27,29,Female,Delhi,Trend_Setter
+28,39,Female,New York,Premium_Loyalist
+29,61,Female,Chicago,Premium_Loyalist
+30,42,Female,Denver,Premium_Loyalist
+31,66,Male,Delhi,Premium_Loyalist
+32,44,Male,New York,Practical_Buyer
+33,59,Female,Denver,Premium_Loyalist
+34,45,Male,Miami,Premium_Loyalist
+35,33,Female,New York,Premium_Loyalist
+36,32,Male,New York,Premium_Loyalist
+37,64,Male,Hyderabad,Premium_Loyalist
+38,68,Female,New York,Premium_Loyalist
+39,61,Female,Bangalore,Premium_Loyalist
+40,69,Male,Mumbai,Premium_Loyalist
+41,20,Female,Bangalore,Trend_Setter
+42,54,Female,Kolkata,Premium_Loyalist
+43,68,Male,Chicago,Premium_Loyalist
+44,24,Female,Pune,Trend_Setter
+45,38,Male,Kolkata,Premium_Loyalist
+46,26,Male,Miami,Trend_Setter
+47,56,Other,Bangalore,Premium_Loyalist
+48,35,Male,Ahmedabad,Premium_Loyalist
+49,21,Female,Delhi,Trend_Setter
+50,42,Female,Chennai,Premium_Loyalist
+51,31,Male,Ahmedabad,Practical_Buyer
+52,67,Female,Mumbai,Premium_Loyalist
+53,26,Female,Seattle,Bargain_Hunter
+54,43,Male,Chennai,Premium_Loyalist
+55,19,Female,Mumbai,Bargain_Hunter
+56,37,Female,Boston,Premium_Loyalist
+57,45,Female,Boston,Premium_Loyalist
+58,64,Female,New York,Premium_Loyalist
+59,24,Male,Kolkata,Trend_Setter
+60,61,Female,Mumbai,Premium_Loyalist
+61,25,Female,Seattle,Trend_Setter
+62,64,Female,Ahmedabad,Practical_Buyer
+63,52,Female,Mumbai,Practical_Buyer
+64,31,Female,Chicago,Premium_Loyalist
+65,34,Female,Chennai,Premium_Loyalist
+66,53,Female,Chicago,Premium_Loyalist
+67,67,Female,Seattle,Premium_Loyalist
+68,57,Female,Mumbai,Premium_Loyalist
+69,21,Female,Denver,Bargain_Hunter
+70,19,Female,Hyderabad,Trend_Setter
+71,23,Male,Kolkata,Trend_Setter
+72,59,Male,Chicago,Premium_Loyalist
+73,21,Male,Chicago,Bargain_Hunter
+74,46,Female,Los Angeles,Premium_Loyalist
+75,35,Female,Mumbai,Premium_Loyalist
+76,43,Female,Kolkata,Practical_Buyer
+77,61,Male,Pune,Premium_Loyalist
+78,51,Female,Chicago,Practical_Buyer
+79,27,Male,Bangalore,Trend_Setter
+80,53,Male,Miami,Practical_Buyer
+81,31,Female,Hyderabad,Premium_Loyalist
+82,48,Female,Hyderabad,Premium_Loyalist
+83,65,Male,Mumbai,Practical_Buyer
+84,32,Male,Boston,Premium_Loyalist
+85,25,Male,Los Angeles,Trend_Setter
+86,31,Male,Chicago,Premium_Loyalist
+87,40,Female,Ahmedabad,Premium_Loyalist
+88,57,Male,Ahmedabad,Premium_Loyalist
+89,38,Female,Los Angeles,Premium_Loyalist
+90,33,Female,Ahmedabad,Premium_Loyalist
+91,62,Male,Boston,Premium_Loyalist
+92,35,Male,Seattle,Premium_Loyalist
+93,64,Male,Seattle,Premium_Loyalist
+94,41,Male,Chennai,Practical_Buyer
+95,43,Male,Pune,Practical_Buyer
+96,42,Female,Mumbai,Practical_Buyer
+97,62,Male,Boston,Premium_Loyalist
+98,58,Other,Houston,Premium_Loyalist
+99,46,Male,Pune,Premium_Loyalist
+100,32,Female,Chennai,Premium_Loyalist
+101,62,Female,Houston,Premium_Loyalist
+102,18,Female,Mumbai,Trend_Setter
+103,42,Female,New York,Premium_Loyalist
+104,24,Female,Kolkata,Bargain_Hunter
+105,26,Female,Los Angeles,Trend_Setter
+106,41,Female,Los Angeles,Premium_Loyalist
+107,18,Female,Kolkata,Trend_Setter
+108,61,Male,Kolkata,Premium_Loyalist
+109,25,Male,Seattle,Bargain_Hunter
+110,41,Female,Pune,Premium_Loyalist
+111,28,Female,Houston,Trend_Setter
+112,68,Female,Ahmedabad,Premium_Loyalist
+113,34,Female,Kolkata,Premium_Loyalist
+114,25,Other,Bangalore,Trend_Setter
+115,52,Male,Delhi,Practical_Buyer
+116,52,Male,Kolkata,Practical_Buyer
+117,50,Male,Chicago,Practical_Buyer
+118,22,Male,Chicago,Trend_Setter
+119,59,Female,Chicago,Practical_Buyer
+120,56,Male,Seattle,Premium_Loyalist
+121,58,Female,Hyderabad,Premium_Loyalist
+122,45,Male,Ahmedabad,Premium_Loyalist
+123,24,Female,Boston,Trend_Setter
+124,26,Female,Bangalore,Trend_Setter
+125,25,Male,Denver,Bargain_Hunter
+126,29,Female,Hyderabad,Trend_Setter
+127,51,Male,Houston,Premium_Loyalist
+128,50,Male,Bangalore,Premium_Loyalist
+129,65,Male,Chennai,Practical_Buyer
+130,40,Male,Houston,Practical_Buyer
+131,41,Male,Bangalore,Practical_Buyer
+132,54,Female,Delhi,Premium_Loyalist
+133,52,Female,Pune,Premium_Loyalist
+134,61,Female,Bangalore,Premium_Loyalist
+135,57,Male,Ahmedabad,Premium_Loyalist
+136,39,Female,Bangalore,Premium_Loyalist
+137,44,Male,Hyderabad,Premium_Loyalist
+138,52,Male,Bangalore,Premium_Loyalist
+139,18,Female,Los Angeles,Bargain_Hunter
+140,52,Male,Hyderabad,Premium_Loyalist
+141,54,Female,Ahmedabad,Premium_Loyalist
+142,64,Female,New York,Premium_Loyalist
+143,31,Male,Mumbai,Practical_Buyer
+144,20,Male,Chennai,Bargain_Hunter
+145,18,Male,Pune,Bargain_Hunter
+146,22,Female,Chennai,Bargain_Hunter
+147,43,Male,Los Angeles,Premium_Loyalist
+148,31,Male,Kolkata,Premium_Loyalist
+149,56,Male,Boston,Premium_Loyalist
+150,44,Female,Pune,Premium_Loyalist
+151,26,Male,Ahmedabad,Trend_Setter
+152,32,Male,Mumbai,Premium_Loyalist
+153,32,Female,Houston,Practical_Buyer
+154,43,Female,Boston,Practical_Buyer
+155,59,Male,Mumbai,Practical_Buyer
+156,30,Male,Delhi,Practical_Buyer
+157,68,Male,Delhi,Premium_Loyalist
+158,49,Female,Miami,Premium_Loyalist
+159,56,Male,Ahmedabad,Premium_Loyalist
+160,66,Female,Kolkata,Premium_Loyalist
+161,69,Female,Hyderabad,Practical_Buyer
+162,49,Female,Denver,Premium_Loyalist
+163,21,Male,Ahmedabad,Bargain_Hunter
+164,47,Female,Delhi,Premium_Loyalist
+165,54,Female,Houston,Premium_Loyalist
+166,40,Female,New York,Premium_Loyalist
+167,56,Male,Chicago,Premium_Loyalist
+168,62,Other,Miami,Premium_Loyalist
+169,32,Male,Chicago,Premium_Loyalist
+170,60,Male,Ahmedabad,Practical_Buyer
+171,46,Male,Chennai,Premium_Loyalist
+172,53,Female,Kolkata,Premium_Loyalist
+173,30,Male,Bangalore,Premium_Loyalist
+174,49,Male,Denver,Premium_Loyalist
+175,24,Male,Chennai,Bargain_Hunter
+176,68,Male,Mumbai,Premium_Loyalist
+177,39,Female,Pune,Practical_Buyer
+178,45,Female,Chennai,Premium_Loyalist
+179,19,Male,Seattle,Bargain_Hunter
+180,59,Male,Kolkata,Premium_Loyalist
+181,62,Female,Delhi,Premium_Loyalist
+182,23,Male,New York,Trend_Setter
+183,45,Male,Ahmedabad,Premium_Loyalist
+184,45,Other,Denver,Premium_Loyalist
+185,61,Female,Pune,Premium_Loyalist
+186,61,Male,Chicago,Premium_Loyalist
+187,37,Female,Miami,Premium_Loyalist
+188,47,Male,Ahmedabad,Premium_Loyalist
+189,28,Female,Delhi,Bargain_Hunter
+190,45,Male,Houston,Premium_Loyalist
+191,42,Male,Delhi,Premium_Loyalist
+192,56,Male,Miami,Premium_Loyalist
+193,50,Female,Miami,Practical_Buyer
+194,18,Female,Seattle,Trend_Setter
+195,44,Male,Hyderabad,Premium_Loyalist
+196,69,Male,Delhi,Practical_Buyer
+197,30,Female,Chennai,Practical_Buyer
+198,58,Male,Delhi,Premium_Loyalist
+199,20,Male,Kolkata,Bargain_Hunter
+200,56,Other,Kolkata,Practical_Buyer
+201,23,Male,Bangalore,Bargain_Hunter
+202,25,Female,Seattle,Trend_Setter
+203,44,Other,Ahmedabad,Premium_Loyalist
+204,26,Male,Boston,Bargain_Hunter
+205,54,Male,Boston,Premium_Loyalist
+206,50,Male,Bangalore,Practical_Buyer
+207,68,Female,Mumbai,Premium_Loyalist
+208,59,Female,Boston,Premium_Loyalist
+209,61,Female,Kolkata,Premium_Loyalist
+210,41,Male,Bangalore,Premium_Loyalist
+211,32,Female,Los Angeles,Practical_Buyer
+212,49,Female,Hyderabad,Practical_Buyer
+213,49,Female,Hyderabad,Premium_Loyalist
+214,41,Female,Chennai,Premium_Loyalist
+215,58,Female,Delhi,Premium_Loyalist
+216,69,Female,Chennai,Premium_Loyalist
+217,66,Female,Bangalore,Premium_Loyalist
+218,66,Male,Pune,Premium_Loyalist
+219,69,Male,Ahmedabad,Premium_Loyalist
+220,29,Female,New York,Bargain_Hunter
+221,56,Male,Delhi,Practical_Buyer
+222,19,Female,Los Angeles,Trend_Setter
+223,20,Other,Los Angeles,Bargain_Hunter
+224,66,Female,Chennai,Premium_Loyalist
+225,54,Male,Chicago,Premium_Loyalist
+226,66,Male,Delhi,Premium_Loyalist
+227,34,Male,Denver,Premium_Loyalist
+228,66,Female,Los Angeles,Premium_Loyalist
+229,19,Female,Hyderabad,Trend_Setter
+230,19,Female,Ahmedabad,Bargain_Hunter
+231,45,Male,New York,Practical_Buyer
+232,40,Female,Ahmedabad,Premium_Loyalist
+233,54,Female,Hyderabad,Practical_Buyer
+234,49,Male,Seattle,Premium_Loyalist
+235,50,Female,Mumbai,Premium_Loyalist
+236,18,Male,Pune,Bargain_Hunter
+237,36,Male,Chicago,Premium_Loyalist
+238,19,Female,Seattle,Trend_Setter
+239,61,Male,Chicago,Premium_Loyalist
+240,43,Female,Hyderabad,Premium_Loyalist
+241,49,Female,Kolkata,Practical_Buyer
+242,23,Female,New York,Trend_Setter
+243,49,Male,Hyderabad,Premium_Loyalist
+244,21,Female,Kolkata,Trend_Setter
+245,28,Female,Ahmedabad,Bargain_Hunter
+246,34,Female,Chennai,Premium_Loyalist
+247,55,Male,Miami,Practical_Buyer
+248,41,Male,Delhi,Premium_Loyalist
+249,22,Female,Hyderabad,Trend_Setter
+250,69,Male,Kolkata,Premium_Loyalist
+251,51,Female,Bangalore,Premium_Loyalist
+252,23,Female,Houston,Trend_Setter
+253,39,Female,Denver,Premium_Loyalist
+254,28,Female,Seattle,Bargain_Hunter
+255,65,Female,Delhi,Premium_Loyalist
+256,33,Female,Denver,Premium_Loyalist
+257,50,Female,Miami,Premium_Loyalist
+258,26,Female,Pune,Trend_Setter
+259,23,Male,Pune,Trend_Setter
+260,33,Male,Houston,Practical_Buyer
+261,46,Female,Ahmedabad,Premium_Loyalist
+262,20,Male,Denver,Trend_Setter
+263,37,Male,Denver,Premium_Loyalist
+264,53,Male,Seattle,Premium_Loyalist
+265,36,Female,Boston,Premium_Loyalist
+266,43,Female,Houston,Premium_Loyalist
+267,20,Female,Delhi,Trend_Setter
+268,36,Female,Miami,Premium_Loyalist
+269,37,Female,Houston,Practical_Buyer
+270,49,Male,Chennai,Premium_Loyalist
+271,24,Female,New York,Trend_Setter
+272,69,Male,Chennai,Premium_Loyalist
+273,58,Female,Boston,Premium_Loyalist
+274,50,Female,New York,Premium_Loyalist
+275,57,Male,Miami,Premium_Loyalist
+276,56,Male,Pune,Premium_Loyalist
+277,35,Male,Seattle,Premium_Loyalist
+278,57,Male,Seattle,Premium_Loyalist
+279,18,Male,Kolkata,Bargain_Hunter
+280,28,Female,Miami,Bargain_Hunter
+281,45,Female,Ahmedabad,Premium_Loyalist
+282,42,Female,Chicago,Premium_Loyalist
+283,67,Female,Pune,Premium_Loyalist
+284,40,Female,Miami,Premium_Loyalist
+285,48,Female,Chennai,Premium_Loyalist
+286,47,Male,Boston,Premium_Loyalist
+287,59,Female,Hyderabad,Practical_Buyer
+288,52,Male,Los Angeles,Premium_Loyalist
+289,24,Other,Ahmedabad,Trend_Setter
+290,33,Female,Seattle,Premium_Loyalist
+291,43,Female,Mumbai,Premium_Loyalist
+292,65,Male,Boston,Premium_Loyalist
+293,69,Female,Hyderabad,Practical_Buyer
+294,66,Female,Bangalore,Premium_Loyalist
+295,19,Male,Boston,Bargain_Hunter
+296,18,Male,Boston,Bargain_Hunter
+297,65,Female,Pune,Practical_Buyer
+298,29,Male,Kolkata,Trend_Setter
+299,22,Female,Denver,Trend_Setter
+300,54,Male,Boston,Premium_Loyalist
+301,49,Male,Kolkata,Premium_Loyalist
+302,26,Female,Seattle,Trend_Setter
+303,58,Male,Los Angeles,Practical_Buyer
+304,52,Female,Los Angeles,Premium_Loyalist
+305,36,Male,Boston,Premium_Loyalist
+306,65,Male,Bangalore,Premium_Loyalist
+307,33,Female,New York,Premium_Loyalist
+308,20,Female,Seattle,Trend_Setter
+309,37,Female,Kolkata,Practical_Buyer
+310,41,Female,Ahmedabad,Premium_Loyalist
+311,50,Female,Seattle,Practical_Buyer
+312,41,Male,Ahmedabad,Practical_Buyer
+313,69,Male,Bangalore,Practical_Buyer
+314,28,Female,Houston,Trend_Setter
+315,66,Female,Chennai,Practical_Buyer
+316,25,Female,Bangalore,Trend_Setter
+317,53,Male,Kolkata,Premium_Loyalist
+318,55,Male,Pune,Premium_Loyalist
+319,57,Female,Bangalore,Premium_Loyalist
+320,37,Female,Ahmedabad,Premium_Loyalist
+321,52,Female,Kolkata,Premium_Loyalist
+322,65,Female,Delhi,Premium_Loyalist
+323,42,Female,Chicago,Practical_Buyer
+324,52,Male,Kolkata,Premium_Loyalist
+325,42,Male,Bangalore,Premium_Loyalist
+326,46,Male,Chicago,Premium_Loyalist
+327,35,Male,Pune,Premium_Loyalist
+328,63,Female,Pune,Practical_Buyer
+329,35,Male,Ahmedabad,Premium_Loyalist
+330,19,Female,Kolkata,Trend_Setter
+331,52,Male,Kolkata,Premium_Loyalist
+332,33,Male,New York,Practical_Buyer
+333,58,Male,Chicago,Premium_Loyalist
+334,53,Male,Houston,Practical_Buyer
+335,50,Female,Bangalore,Premium_Loyalist
+336,21,Male,Bangalore,Trend_Setter
+337,50,Female,Miami,Premium_Loyalist
+338,31,Male,Chicago,Practical_Buyer
+339,38,Male,Seattle,Premium_Loyalist
+340,65,Male,Bangalore,Premium_Loyalist
+341,37,Female,Hyderabad,Premium_Loyalist
+342,25,Female,Pune,Trend_Setter
+343,24,Male,Chennai,Trend_Setter
+344,20,Male,Ahmedabad,Bargain_Hunter
+345,34,Female,Miami,Premium_Loyalist
+346,50,Male,Chicago,Premium_Loyalist
+347,65,Male,Seattle,Practical_Buyer
+348,29,Female,Seattle,Trend_Setter
+349,68,Female,Pune,Premium_Loyalist
+350,39,Male,Hyderabad,Premium_Loyalist
+351,39,Female,Boston,Premium_Loyalist
+352,63,Female,Los Angeles,Premium_Loyalist
+353,47,Male,New York,Premium_Loyalist
+354,55,Female,Ahmedabad,Premium_Loyalist
+355,55,Female,Houston,Premium_Loyalist
+356,62,Male,Ahmedabad,Practical_Buyer
+357,68,Male,Denver,Practical_Buyer
+358,25,Male,Pune,Bargain_Hunter
+359,44,Female,Ahmedabad,Practical_Buyer
+360,44,Male,Bangalore,Premium_Loyalist
+361,51,Female,Delhi,Practical_Buyer
+362,38,Female,Chicago,Premium_Loyalist
+363,47,Male,Chicago,Premium_Loyalist
+364,50,Female,Ahmedabad,Premium_Loyalist
+365,45,Male,Miami,Premium_Loyalist
+366,64,Female,Miami,Practical_Buyer
+367,50,Female,Kolkata,Practical_Buyer
+368,22,Male,Delhi,Trend_Setter
+369,65,Male,Chicago,Practical_Buyer
+370,36,Male,Mumbai,Premium_Loyalist
+371,21,Male,Houston,Trend_Setter
+372,52,Male,Kolkata,Premium_Loyalist
+373,66,Male,Kolkata,Premium_Loyalist
+374,34,Other,Pune,Practical_Buyer
+375,61,Male,Chicago,Practical_Buyer
+376,45,Male,Bangalore,Practical_Buyer
+377,47,Female,Los Angeles,Premium_Loyalist
+378,46,Male,Delhi,Practical_Buyer
+379,63,Other,Kolkata,Premium_Loyalist
+380,23,Female,Bangalore,Bargain_Hunter
+381,52,Female,Mumbai,Premium_Loyalist
+382,58,Male,Houston,Premium_Loyalist
+383,54,Male,Ahmedabad,Premium_Loyalist
+384,41,Male,Chicago,Premium_Loyalist
+385,46,Female,Denver,Premium_Loyalist
+386,66,Male,Boston,Premium_Loyalist
+387,63,Male,Bangalore,Premium_Loyalist
+388,48,Other,Hyderabad,Premium_Loyalist
+389,52,Male,Los Angeles,Premium_Loyalist
+390,50,Male,Denver,Premium_Loyalist
+391,69,Male,Chennai,Premium_Loyalist
+392,38,Other,Miami,Premium_Loyalist
+393,49,Male,Pune,Premium_Loyalist
+394,40,Female,Bangalore,Practical_Buyer
+395,50,Female,Miami,Practical_Buyer
+396,20,Male,Chicago,Trend_Setter
+397,35,Female,Miami,Practical_Buyer
+398,42,Male,Chennai,Practical_Buyer
+399,59,Male,Los Angeles,Practical_Buyer
+400,48,Female,Houston,Premium_Loyalist
+401,20,Female,Seattle,Trend_Setter
+402,57,Female,New York,Premium_Loyalist
+403,63,Female,Delhi,Premium_Loyalist
+404,41,Male,Houston,Premium_Loyalist
+405,67,Male,Seattle,Premium_Loyalist
+406,49,Male,Mumbai,Practical_Buyer
+407,64,Male,Hyderabad,Practical_Buyer
+408,39,Male,Bangalore,Premium_Loyalist
+409,40,Male,Ahmedabad,Premium_Loyalist
+410,19,Male,Bangalore,Trend_Setter
+411,44,Male,Kolkata,Practical_Buyer
+412,59,Female,Los Angeles,Premium_Loyalist
+413,19,Female,Bangalore,Bargain_Hunter
+414,43,Male,Denver,Premium_Loyalist
+415,34,Female,Seattle,Premium_Loyalist
+416,57,Female,Los Angeles,Premium_Loyalist
+417,50,Male,Boston,Premium_Loyalist
+418,26,Female,Denver,Bargain_Hunter
+419,60,Female,Bangalore,Practical_Buyer
+420,65,Female,Miami,Practical_Buyer
+421,56,Male,Chennai,Practical_Buyer
+422,46,Female,Miami,Premium_Loyalist
+423,59,Male,Denver,Premium_Loyalist
+424,43,Female,Mumbai,Practical_Buyer
+425,52,Female,Bangalore,Practical_Buyer
+426,67,Female,Pune,Premium_Loyalist
+427,42,Female,Mumbai,Premium_Loyalist
+428,41,Female,Mumbai,Premium_Loyalist
+429,30,Male,Seattle,Premium_Loyalist
+430,24,Male,Delhi,Trend_Setter
+431,53,Female,Seattle,Premium_Loyalist
+432,62,Male,Chicago,Premium_Loyalist
+433,37,Male,New York,Premium_Loyalist
+434,18,Male,Ahmedabad,Bargain_Hunter
+435,25,Male,Denver,Trend_Setter
+436,63,Female,Houston,Premium_Loyalist
+437,33,Female,New York,Premium_Loyalist
+438,31,Female,Pune,Practical_Buyer
+439,29,Female,Boston,Trend_Setter
+440,68,Male,Chennai,Practical_Buyer
+441,40,Male,Seattle,Premium_Loyalist
+442,32,Female,Seattle,Practical_Buyer
+443,45,Male,Los Angeles,Practical_Buyer
+444,51,Female,Pune,Premium_Loyalist
+445,19,Female,New York,Trend_Setter
+446,49,Male,Kolkata,Premium_Loyalist
+447,40,Female,Hyderabad,Premium_Loyalist
+448,39,Female,Hyderabad,Premium_Loyalist
+449,68,Female,Los Angeles,Premium_Loyalist
+450,42,Male,Houston,Premium_Loyalist
+451,39,Male,Los Angeles,Premium_Loyalist
+452,39,Female,Ahmedabad,Premium_Loyalist
+453,66,Male,New York,Premium_Loyalist
+454,69,Male,Denver,Premium_Loyalist
+455,59,Female,Bangalore,Premium_Loyalist
+456,23,Male,Bangalore,Trend_Setter
+457,32,Female,Pune,Premium_Loyalist
+458,60,Female,Chennai,Practical_Buyer
+459,54,Female,Boston,Premium_Loyalist
+460,50,Male,Seattle,Premium_Loyalist
+461,25,Female,Houston,Trend_Setter
+462,61,Male,Hyderabad,Practical_Buyer
+463,61,Male,Seattle,Practical_Buyer
+464,22,Female,Chicago,Bargain_Hunter
+465,56,Male,Chennai,Premium_Loyalist
+466,21,Male,Boston,Trend_Setter
+467,23,Female,Delhi,Trend_Setter
+468,62,Male,Hyderabad,Premium_Loyalist
+469,49,Male,Kolkata,Practical_Buyer
+470,69,Female,Kolkata,Premium_Loyalist
+471,47,Female,Los Angeles,Practical_Buyer
+472,64,Female,Miami,Premium_Loyalist
+473,52,Male,New York,Practical_Buyer
+474,57,Male,Seattle,Premium_Loyalist
+475,69,Male,Los Angeles,Premium_Loyalist
+476,33,Male,Houston,Premium_Loyalist
+477,30,Female,Seattle,Premium_Loyalist
+478,67,Male,Delhi,Premium_Loyalist
+479,59,Male,Bangalore,Practical_Buyer
+480,47,Female,Boston,Premium_Loyalist
+481,36,Female,Chennai,Premium_Loyalist
+482,34,Female,Boston,Premium_Loyalist
+483,36,Male,Bangalore,Premium_Loyalist
+484,45,Male,Seattle,Practical_Buyer
+485,43,Male,Houston,Practical_Buyer
+486,54,Male,Boston,Practical_Buyer
+487,43,Female,Kolkata,Practical_Buyer
+488,40,Female,Boston,Practical_Buyer
+489,26,Female,Delhi,Trend_Setter
+490,29,Female,Hyderabad,Bargain_Hunter
+491,18,Male,New York,Trend_Setter
+492,18,Female,Ahmedabad,Trend_Setter
+493,64,Male,Houston,Premium_Loyalist
+494,51,Female,Houston,Practical_Buyer
+495,49,Female,Denver,Practical_Buyer
+496,65,Male,Ahmedabad,Premium_Loyalist
+497,42,Male,Hyderabad,Practical_Buyer
+498,57,Other,Hyderabad,Practical_Buyer
+499,62,Male,Bangalore,Premium_Loyalist
+500,18,Male,Denver,Trend_Setter
+501,33,Male,Ahmedabad,Practical_Buyer
+502,56,Female,Kolkata,Premium_Loyalist
+503,22,Female,Bangalore,Bargain_Hunter
+504,39,Female,Pune,Premium_Loyalist
+505,46,Male,Boston,Premium_Loyalist
+506,20,Female,Ahmedabad,Bargain_Hunter
+507,29,Male,Bangalore,Bargain_Hunter
+508,43,Female,Miami,Practical_Buyer
+509,33,Female,Denver,Practical_Buyer
+510,68,Male,Boston,Practical_Buyer
+511,54,Male,Ahmedabad,Premium_Loyalist
+512,39,Male,Pune,Premium_Loyalist
+513,46,Male,Mumbai,Premium_Loyalist
+514,31,Male,Chicago,Premium_Loyalist
+515,45,Female,Chicago,Practical_Buyer
+516,22,Female,Houston,Trend_Setter
+517,64,Male,Miami,Premium_Loyalist
+518,66,Male,Delhi,Premium_Loyalist
+519,47,Male,New York,Practical_Buyer
+520,63,Female,Pune,Practical_Buyer
+521,69,Male,Pune,Premium_Loyalist
+522,22,Female,Denver,Bargain_Hunter
+523,29,Female,Mumbai,Trend_Setter
+524,33,Female,Boston,Premium_Loyalist
+525,43,Female,Pune,Practical_Buyer
+526,43,Male,Pune,Premium_Loyalist
+527,65,Female,Miami,Practical_Buyer
+528,38,Male,Hyderabad,Premium_Loyalist
+529,56,Male,Hyderabad,Premium_Loyalist
+530,53,Female,Houston,Practical_Buyer
+531,50,Female,Chennai,Premium_Loyalist
+532,47,Female,Denver,Practical_Buyer
+533,54,Male,Miami,Practical_Buyer
+534,40,Male,Denver,Premium_Loyalist
+535,27,Female,Chennai,Trend_Setter
+536,22,Male,New York,Trend_Setter
+537,53,Female,New York,Premium_Loyalist
+538,51,Female,Ahmedabad,Premium_Loyalist
+539,69,Female,Delhi,Premium_Loyalist
+540,48,Male,Hyderabad,Premium_Loyalist
+541,27,Male,Kolkata,Trend_Setter
+542,36,Male,Chicago,Practical_Buyer
+543,49,Female,Hyderabad,Practical_Buyer
+544,18,Male,Bangalore,Bargain_Hunter
+545,22,Female,Los Angeles,Trend_Setter
+546,62,Male,Los Angeles,Practical_Buyer
+547,21,Other,Denver,Trend_Setter
+548,33,Male,Chennai,Practical_Buyer
+549,41,Male,Delhi,Practical_Buyer
+550,33,Male,Los Angeles,Premium_Loyalist
+551,19,Female,Bangalore,Bargain_Hunter
+552,66,Female,Houston,Practical_Buyer
+553,45,Female,Los Angeles,Practical_Buyer
+554,49,Male,Seattle,Practical_Buyer
+555,44,Male,Boston,Premium_Loyalist
+556,37,Female,Delhi,Premium_Loyalist
+557,41,Male,Ahmedabad,Premium_Loyalist
+558,29,Male,Houston,Bargain_Hunter
+559,67,Other,Pune,Premium_Loyalist
+560,52,Other,Miami,Practical_Buyer
+561,50,Female,Houston,Premium_Loyalist
+562,50,Female,Chicago,Premium_Loyalist
+563,68,Male,Miami,Premium_Loyalist
+564,60,Male,Hyderabad,Practical_Buyer
+565,54,Female,Mumbai,Premium_Loyalist
+566,29,Female,Boston,Trend_Setter
+567,20,Male,Boston,Trend_Setter
+568,18,Male,Boston,Trend_Setter
+569,50,Male,Chennai,Premium_Loyalist
+570,57,Female,Boston,Practical_Buyer
+571,27,Female,Denver,Trend_Setter
+572,60,Female,Boston,Premium_Loyalist
+573,61,Male,Bangalore,Practical_Buyer
+574,46,Other,Hyderabad,Practical_Buyer
+575,30,Female,Ahmedabad,Premium_Loyalist
+576,29,Male,Boston,Trend_Setter
+577,48,Male,Kolkata,Practical_Buyer
+578,63,Male,Hyderabad,Practical_Buyer
+579,19,Male,Boston,Bargain_Hunter
+580,68,Female,Chennai,Premium_Loyalist
+581,67,Male,Delhi,Premium_Loyalist
+582,52,Female,Denver,Practical_Buyer
+583,40,Male,Chennai,Premium_Loyalist
+584,34,Male,New York,Premium_Loyalist
+585,43,Male,Houston,Practical_Buyer
+586,25,Male,Kolkata,Bargain_Hunter
+587,46,Female,Kolkata,Premium_Loyalist
+588,43,Female,Ahmedabad,Premium_Loyalist
+589,27,Female,Houston,Trend_Setter
+590,43,Female,Miami,Premium_Loyalist
+591,51,Male,Delhi,Practical_Buyer
+592,68,Male,Seattle,Premium_Loyalist
+593,58,Male,Houston,Premium_Loyalist
+594,24,Female,Pune,Bargain_Hunter
+595,21,Male,Los Angeles,Trend_Setter
+596,67,Male,Ahmedabad,Premium_Loyalist
+597,62,Female,Seattle,Practical_Buyer
+598,28,Male,Pune,Bargain_Hunter
+599,46,Male,Boston,Premium_Loyalist
+600,53,Male,Pune,Practical_Buyer
+601,42,Female,Boston,Premium_Loyalist
+602,38,Female,Denver,Practical_Buyer
+603,53,Female,Seattle,Premium_Loyalist
+604,27,Male,Los Angeles,Bargain_Hunter
+605,54,Other,Pune,Premium_Loyalist
+606,26,Female,Denver,Bargain_Hunter
+607,41,Male,Bangalore,Premium_Loyalist
+608,52,Female,Chennai,Premium_Loyalist
+609,66,Male,Hyderabad,Practical_Buyer
+610,52,Female,Ahmedabad,Premium_Loyalist
+611,65,Female,Hyderabad,Premium_Loyalist
+612,53,Male,Miami,Premium_Loyalist
+613,35,Other,Ahmedabad,Premium_Loyalist
+614,66,Female,Seattle,Practical_Buyer
+615,56,Female,Delhi,Practical_Buyer
+616,49,Male,Boston,Premium_Loyalist
+617,41,Male,Ahmedabad,Practical_Buyer
+618,40,Male,Hyderabad,Practical_Buyer
+619,49,Female,Boston,Premium_Loyalist
+620,54,Male,Chicago,Premium_Loyalist
+621,29,Female,Chennai,Bargain_Hunter
+622,66,Female,Ahmedabad,Premium_Loyalist
+623,30,Male,Chennai,Practical_Buyer
+624,40,Female,Hyderabad,Premium_Loyalist
+625,42,Male,Denver,Premium_Loyalist
+626,52,Other,New York,Premium_Loyalist
+627,58,Female,New York,Premium_Loyalist
+628,47,Male,Denver,Practical_Buyer
+629,34,Male,Pune,Premium_Loyalist
+630,66,Male,Pune,Premium_Loyalist
+631,37,Female,Delhi,Practical_Buyer
+632,65,Female,Mumbai,Premium_Loyalist
+633,42,Female,Denver,Premium_Loyalist
+634,39,Male,Delhi,Practical_Buyer
+635,30,Male,Miami,Practical_Buyer
+636,36,Male,Boston,Premium_Loyalist
+637,66,Female,Los Angeles,Premium_Loyalist
+638,53,Female,Mumbai,Premium_Loyalist
+639,29,Male,Seattle,Trend_Setter
+640,58,Male,Kolkata,Premium_Loyalist
+641,36,Female,Mumbai,Premium_Loyalist
+642,29,Female,Ahmedabad,Trend_Setter
+643,26,Female,Los Angeles,Trend_Setter
+644,24,Female,Chicago,Trend_Setter
+645,45,Male,Chennai,Premium_Loyalist
+646,31,Male,Boston,Practical_Buyer
+647,48,Female,New York,Practical_Buyer
+648,69,Female,Pune,Premium_Loyalist
+649,36,Male,Delhi,Premium_Loyalist
+650,64,Female,Pune,Premium_Loyalist
+651,33,Female,Pune,Premium_Loyalist
+652,22,Female,Pune,Trend_Setter
+653,52,Female,Denver,Premium_Loyalist
+654,29,Male,Denver,Trend_Setter
+655,42,Female,Kolkata,Practical_Buyer
+656,69,Female,New York,Premium_Loyalist
+657,38,Female,Ahmedabad,Premium_Loyalist
+658,53,Female,Mumbai,Practical_Buyer
+659,40,Female,Boston,Premium_Loyalist
+660,33,Male,Houston,Premium_Loyalist
+661,56,Female,Delhi,Premium_Loyalist
+662,62,Female,Bangalore,Premium_Loyalist
+663,59,Female,Miami,Practical_Buyer
+664,56,Female,Los Angeles,Premium_Loyalist
+665,31,Female,Kolkata,Premium_Loyalist
+666,48,Male,Ahmedabad,Premium_Loyalist
+667,22,Female,Mumbai,Trend_Setter
+668,52,Male,Pune,Practical_Buyer
+669,40,Male,Chennai,Practical_Buyer
+670,46,Female,Chennai,Premium_Loyalist
+671,60,Female,Seattle,Premium_Loyalist
+672,28,Male,Chicago,Trend_Setter
+673,35,Male,Chennai,Practical_Buyer
+674,64,Female,Denver,Premium_Loyalist
+675,29,Male,Mumbai,Trend_Setter
+676,26,Male,Chicago,Trend_Setter
+677,27,Male,Ahmedabad,Trend_Setter
+678,61,Male,Los Angeles,Premium_Loyalist
+679,34,Male,Ahmedabad,Premium_Loyalist
+680,55,Male,Denver,Premium_Loyalist
+681,24,Male,Denver,Trend_Setter
+682,63,Female,Houston,Premium_Loyalist
+683,30,Female,Bangalore,Practical_Buyer
+684,57,Female,Mumbai,Premium_Loyalist
+685,59,Male,Ahmedabad,Premium_Loyalist
+686,26,Male,Hyderabad,Bargain_Hunter
+687,67,Female,Boston,Premium_Loyalist
+688,44,Male,Kolkata,Premium_Loyalist
+689,19,Female,Kolkata,Bargain_Hunter
+690,22,Female,New York,Trend_Setter
+691,46,Female,New York,Practical_Buyer
+692,54,Male,Miami,Premium_Loyalist
+693,55,Male,Seattle,Premium_Loyalist
+694,36,Female,Chicago,Premium_Loyalist
+695,25,Male,Kolkata,Trend_Setter
+696,65,Female,Mumbai,Practical_Buyer
+697,62,Female,Chennai,Practical_Buyer
+698,18,Other,Delhi,Bargain_Hunter
+699,39,Male,Hyderabad,Practical_Buyer
+700,69,Female,Pune,Practical_Buyer
+701,34,Female,Seattle,Premium_Loyalist
+702,24,Male,Houston,Trend_Setter
+703,42,Male,Chennai,Premium_Loyalist
+704,62,Female,Denver,Premium_Loyalist
+705,21,Male,Boston,Bargain_Hunter
+706,53,Male,Mumbai,Premium_Loyalist
+707,23,Male,Kolkata,Trend_Setter
+708,48,Female,Ahmedabad,Premium_Loyalist
+709,36,Female,Bangalore,Premium_Loyalist
+710,61,Female,Seattle,Premium_Loyalist
+711,56,Male,Pune,Premium_Loyalist
+712,44,Male,Seattle,Premium_Loyalist
+713,27,Female,Boston,Trend_Setter
+714,43,Female,Chennai,Premium_Loyalist
+715,36,Male,Miami,Premium_Loyalist
+716,56,Female,Hyderabad,Premium_Loyalist
+717,20,Other,Chicago,Trend_Setter
+718,62,Female,Chennai,Premium_Loyalist
+719,30,Female,Chicago,Premium_Loyalist
+720,67,Female,Kolkata,Premium_Loyalist
+721,45,Male,Seattle,Premium_Loyalist
+722,37,Female,Los Angeles,Premium_Loyalist
+723,45,Other,Ahmedabad,Premium_Loyalist
+724,25,Male,Seattle,Bargain_Hunter
+725,58,Female,Ahmedabad,Practical_Buyer
+726,56,Female,Kolkata,Premium_Loyalist
+727,18,Female,Seattle,Bargain_Hunter
+728,20,Female,Boston,Trend_Setter
+729,30,Female,Denver,Premium_Loyalist
+730,45,Female,Boston,Premium_Loyalist
+731,66,Male,Hyderabad,Premium_Loyalist
+732,42,Female,Mumbai,Premium_Loyalist
+733,50,Male,Seattle,Premium_Loyalist
+734,55,Male,Hyderabad,Premium_Loyalist
+735,23,Male,Ahmedabad,Trend_Setter
+736,61,Female,Chicago,Premium_Loyalist
+737,62,Male,Delhi,Premium_Loyalist
+738,49,Female,Chicago,Premium_Loyalist
+739,62,Female,Ahmedabad,Premium_Loyalist
+740,64,Female,Bangalore,Practical_Buyer
+741,38,Male,Chennai,Practical_Buyer
+742,33,Female,New York,Practical_Buyer
+743,38,Female,Bangalore,Premium_Loyalist
+744,28,Female,Pune,Bargain_Hunter
+745,54,Male,Kolkata,Practical_Buyer
+746,53,Male,Pune,Premium_Loyalist
+747,52,Male,Miami,Premium_Loyalist
+748,36,Male,Hyderabad,Practical_Buyer
+749,37,Male,Houston,Premium_Loyalist
+750,35,Female,Mumbai,Premium_Loyalist
+751,64,Male,Pune,Premium_Loyalist
+752,58,Male,Mumbai,Premium_Loyalist
+753,66,Male,Pune,Practical_Buyer
+754,31,Male,Hyderabad,Premium_Loyalist
+755,32,Male,Miami,Premium_Loyalist
+756,48,Male,Delhi,Premium_Loyalist
+757,18,Male,Houston,Trend_Setter
+758,20,Female,Denver,Trend_Setter
+759,33,Other,Pune,Premium_Loyalist
+760,40,Male,Seattle,Practical_Buyer
+761,28,Male,Houston,Trend_Setter
+762,29,Female,Kolkata,Trend_Setter
+763,27,Male,Kolkata,Bargain_Hunter
+764,49,Male,Pune,Premium_Loyalist
+765,33,Female,Delhi,Practical_Buyer
+766,25,Male,Los Angeles,Bargain_Hunter
+767,55,Female,New York,Practical_Buyer
+768,29,Female,Houston,Trend_Setter
+769,41,Male,Houston,Premium_Loyalist
+770,45,Male,Kolkata,Premium_Loyalist
+771,25,Female,New York,Trend_Setter
+772,45,Male,Seattle,Practical_Buyer
+773,53,Male,Houston,Practical_Buyer
+774,43,Female,New York,Practical_Buyer
+775,25,Female,New York,Bargain_Hunter
+776,67,Male,Pune,Practical_Buyer
+777,45,Female,Kolkata,Premium_Loyalist
+778,45,Male,New York,Premium_Loyalist
+779,54,Female,Boston,Premium_Loyalist
+780,58,Female,Delhi,Premium_Loyalist
+781,53,Female,Boston,Premium_Loyalist
+782,44,Female,Los Angeles,Premium_Loyalist
+783,34,Other,Bangalore,Practical_Buyer
+784,26,Male,Kolkata,Trend_Setter
+785,50,Female,Denver,Practical_Buyer
+786,37,Male,Hyderabad,Practical_Buyer
+787,30,Male,Boston,Premium_Loyalist
+788,45,Male,Boston,Premium_Loyalist
+789,65,Female,Bangalore,Premium_Loyalist
+790,46,Other,Delhi,Practical_Buyer
+791,30,Male,Pune,Practical_Buyer
+792,63,Male,Bangalore,Practical_Buyer
+793,52,Female,Kolkata,Premium_Loyalist
+794,23,Male,Denver,Trend_Setter
+795,35,Male,Miami,Premium_Loyalist
+796,68,Female,New York,Practical_Buyer
+797,22,Female,Chennai,Trend_Setter
+798,64,Other,Mumbai,Premium_Loyalist
+799,42,Male,Kolkata,Premium_Loyalist
+800,19,Male,Ahmedabad,Trend_Setter
+801,27,Female,Denver,Trend_Setter
+802,47,Female,Los Angeles,Premium_Loyalist
+803,67,Female,Seattle,Premium_Loyalist
+804,62,Female,Los Angeles,Premium_Loyalist
+805,22,Male,Pune,Bargain_Hunter
+806,50,Female,New York,Practical_Buyer
+807,18,Male,Hyderabad,Trend_Setter
+808,35,Male,Denver,Practical_Buyer
+809,49,Female,Kolkata,Premium_Loyalist
+810,64,Male,Ahmedabad,Premium_Loyalist
+811,66,Male,Los Angeles,Practical_Buyer
+812,28,Female,Kolkata,Bargain_Hunter
+813,38,Male,Hyderabad,Practical_Buyer
+814,43,Female,Hyderabad,Premium_Loyalist
+815,42,Male,Los Angeles,Premium_Loyalist
+816,39,Female,Kolkata,Practical_Buyer
+817,44,Male,Bangalore,Premium_Loyalist
+818,66,Male,Miami,Premium_Loyalist
+819,30,Other,Hyderabad,Practical_Buyer
+820,50,Female,Miami,Practical_Buyer
+821,51,Female,Ahmedabad,Practical_Buyer
+822,58,Male,Denver,Premium_Loyalist
+823,52,Female,New York,Practical_Buyer
+824,18,Female,Boston,Trend_Setter
+825,38,Female,Chicago,Premium_Loyalist
+826,65,Female,Houston,Premium_Loyalist
+827,23,Male,Pune,Trend_Setter
+828,45,Male,Mumbai,Premium_Loyalist
+829,34,Female,Houston,Premium_Loyalist
+830,22,Male,Delhi,Trend_Setter
+831,48,Male,Chennai,Premium_Loyalist
+832,22,Female,Pune,Trend_Setter
+833,55,Female,Miami,Premium_Loyalist
+834,20,Female,Denver,Trend_Setter
+835,40,Female,Ahmedabad,Practical_Buyer
+836,54,Female,Houston,Practical_Buyer
+837,54,Male,Hyderabad,Premium_Loyalist
+838,27,Male,New York,Bargain_Hunter
+839,27,Male,Mumbai,Trend_Setter
+840,36,Male,Houston,Premium_Loyalist
+841,34,Female,Mumbai,Practical_Buyer
+842,38,Male,Seattle,Premium_Loyalist
+843,31,Male,Pune,Practical_Buyer
+844,26,Male,New York,Trend_Setter
+845,63,Male,Chennai,Practical_Buyer
+846,18,Male,Chicago,Trend_Setter
+847,68,Male,Bangalore,Premium_Loyalist
+848,62,Male,Los Angeles,Premium_Loyalist
+849,30,Male,Ahmedabad,Practical_Buyer
+850,21,Male,Mumbai,Trend_Setter
+851,18,Female,Ahmedabad,Bargain_Hunter
+852,66,Male,Pune,Premium_Loyalist
+853,57,Male,Chennai,Premium_Loyalist
+854,49,Female,New York,Premium_Loyalist
+855,51,Male,Kolkata,Premium_Loyalist
+856,45,Female,Hyderabad,Practical_Buyer
+857,48,Female,Mumbai,Premium_Loyalist
+858,25,Male,Mumbai,Bargain_Hunter
+859,56,Female,Boston,Premium_Loyalist
+860,43,Male,Boston,Premium_Loyalist
+861,51,Female,Bangalore,Practical_Buyer
+862,20,Male,Hyderabad,Trend_Setter
+863,67,Female,Chennai,Premium_Loyalist
+864,29,Male,New York,Bargain_Hunter
+865,18,Female,Bangalore,Bargain_Hunter
+866,61,Female,Boston,Premium_Loyalist
+867,22,Male,Delhi,Trend_Setter
+868,47,Male,Hyderabad,Premium_Loyalist
+869,47,Female,Chicago,Premium_Loyalist
+870,34,Female,Bangalore,Practical_Buyer
+871,65,Male,Denver,Premium_Loyalist
+872,64,Female,Bangalore,Premium_Loyalist
+873,40,Other,Pune,Premium_Loyalist
+874,32,Female,New York,Premium_Loyalist
+875,54,Male,New York,Premium_Loyalist
+876,38,Female,Ahmedabad,Premium_Loyalist
+877,31,Male,Delhi,Premium_Loyalist
+878,19,Other,Kolkata,Trend_Setter
+879,28,Female,Miami,Trend_Setter
+880,68,Male,Miami,Premium_Loyalist
+881,56,Female,Boston,Premium_Loyalist
+882,55,Male,Denver,Premium_Loyalist
+883,51,Other,Boston,Premium_Loyalist
+884,55,Other,Seattle,Premium_Loyalist
+885,67,Female,Seattle,Premium_Loyalist
+886,51,Male,Los Angeles,Premium_Loyalist
+887,35,Female,Seattle,Practical_Buyer
+888,47,Male,Miami,Practical_Buyer
+889,32,Male,Kolkata,Practical_Buyer
+890,44,Female,Ahmedabad,Premium_Loyalist
+891,68,Male,Chicago,Practical_Buyer
+892,51,Male,Seattle,Premium_Loyalist
+893,69,Other,Boston,Premium_Loyalist
+894,55,Male,Mumbai,Premium_Loyalist
+895,50,Male,New York,Practical_Buyer
+896,41,Female,Chicago,Premium_Loyalist
+897,32,Male,Chicago,Premium_Loyalist
+898,47,Female,Bangalore,Practical_Buyer
+899,59,Other,Boston,Practical_Buyer
+900,68,Female,New York,Premium_Loyalist
+901,34,Female,Miami,Premium_Loyalist
+902,22,Male,Chicago,Trend_Setter
+903,46,Male,Los Angeles,Practical_Buyer
+904,21,Female,Pune,Trend_Setter
+905,27,Female,Boston,Trend_Setter
+906,34,Female,Chicago,Practical_Buyer
+907,27,Male,Denver,Trend_Setter
+908,34,Male,Chennai,Premium_Loyalist
+909,37,Male,Bangalore,Premium_Loyalist
+910,41,Female,New York,Premium_Loyalist
+911,22,Male,Seattle,Bargain_Hunter
+912,51,Female,Chicago,Premium_Loyalist
+913,23,Female,Boston,Trend_Setter
+914,19,Male,Seattle,Trend_Setter
+915,30,Female,Chennai,Premium_Loyalist
+916,60,Male,Los Angeles,Practical_Buyer
+917,60,Female,Seattle,Practical_Buyer
+918,65,Female,Denver,Premium_Loyalist
+919,28,Female,Miami,Trend_Setter
+920,68,Female,Chicago,Premium_Loyalist
+921,64,Male,Houston,Practical_Buyer
+922,40,Male,Houston,Premium_Loyalist
+923,33,Female,Seattle,Practical_Buyer
+924,48,Male,Delhi,Premium_Loyalist
+925,28,Male,New York,Bargain_Hunter
+926,33,Male,Bangalore,Practical_Buyer
+927,25,Female,Houston,Bargain_Hunter
+928,21,Male,Delhi,Trend_Setter
+929,57,Female,Kolkata,Premium_Loyalist
+930,21,Other,Houston,Trend_Setter
+931,42,Male,Delhi,Premium_Loyalist
+932,20,Male,Ahmedabad,Trend_Setter
+933,49,Male,New York,Premium_Loyalist
+934,20,Female,Mumbai,Trend_Setter
+935,44,Male,Houston,Premium_Loyalist
+936,46,Male,Denver,Premium_Loyalist
+937,49,Male,Chennai,Premium_Loyalist
+938,67,Female,Hyderabad,Practical_Buyer
+939,68,Male,Chicago,Premium_Loyalist
+940,36,Female,Delhi,Premium_Loyalist
+941,38,Female,Chennai,Premium_Loyalist
+942,22,Male,Chicago,Bargain_Hunter
+943,35,Female,Hyderabad,Premium_Loyalist
+944,45,Male,Boston,Premium_Loyalist
+945,59,Female,Boston,Premium_Loyalist
+946,39,Female,Bangalore,Premium_Loyalist
+947,38,Female,Chennai,Premium_Loyalist
+948,23,Male,New York,Bargain_Hunter
+949,18,Male,Delhi,Bargain_Hunter
+950,22,Male,Los Angeles,Trend_Setter
+951,58,Male,Ahmedabad,Premium_Loyalist
+952,29,Male,Boston,Trend_Setter
+953,43,Male,New York,Premium_Loyalist
+954,63,Male,Pune,Premium_Loyalist
+955,51,Male,Chennai,Premium_Loyalist
+956,66,Female,Boston,Practical_Buyer
+957,31,Male,Boston,Practical_Buyer
+958,43,Male,Ahmedabad,Premium_Loyalist
+959,62,Male,Los Angeles,Premium_Loyalist
+960,44,Male,Houston,Premium_Loyalist
+961,26,Other,Seattle,Trend_Setter
+962,43,Male,Chennai,Premium_Loyalist
+963,64,Female,Bangalore,Premium_Loyalist
+964,39,Other,Mumbai,Practical_Buyer
+965,64,Female,Pune,Practical_Buyer
+966,47,Female,Ahmedabad,Premium_Loyalist
+967,60,Female,Boston,Premium_Loyalist
+968,65,Other,Chennai,Premium_Loyalist
+969,34,Female,Pune,Premium_Loyalist
+970,43,Female,Boston,Premium_Loyalist
+971,53,Female,Denver,Premium_Loyalist
+972,18,Female,Hyderabad,Trend_Setter
+973,25,Female,Kolkata,Trend_Setter
+974,66,Male,Mumbai,Practical_Buyer
+975,52,Male,Pune,Premium_Loyalist
+976,69,Male,Los Angeles,Premium_Loyalist
+977,32,Male,Chicago,Premium_Loyalist
+978,64,Male,Delhi,Premium_Loyalist
+979,39,Male,Boston,Premium_Loyalist
+980,31,Female,Hyderabad,Practical_Buyer
+981,43,Male,Seattle,Practical_Buyer
+982,45,Female,Delhi,Premium_Loyalist
+983,40,Male,Mumbai,Premium_Loyalist
+984,31,Male,Delhi,Premium_Loyalist
+985,41,Female,Houston,Premium_Loyalist
+986,19,Female,Ahmedabad,Bargain_Hunter
+987,62,Male,Boston,Premium_Loyalist
+988,43,Female,Delhi,Premium_Loyalist
+989,31,Female,Chicago,Premium_Loyalist
+990,68,Male,Chicago,Premium_Loyalist
+991,24,Male,Boston,Bargain_Hunter
+992,20,Other,Miami,Trend_Setter
+993,64,Female,Chicago,Practical_Buyer
+994,40,Female,Delhi,Premium_Loyalist
+995,63,Female,Bangalore,Practical_Buyer
+996,60,Male,Ahmedabad,Premium_Loyalist
+997,64,Male,New York,Premium_Loyalist
+998,62,Male,Pune,Practical_Buyer
+999,35,Female,Chicago,Premium_Loyalist
+1000,55,Female,Chennai,Premium_Loyalist
+1001,52,Female,Mumbai,Premium_Loyalist
+1002,68,Male,Miami,Practical_Buyer
+1003,32,Male,Chennai,Premium_Loyalist
+1004,42,Female,Delhi,Practical_Buyer
+1005,54,Female,Pune,Premium_Loyalist
+1006,45,Female,Los Angeles,Premium_Loyalist
+1007,27,Male,Denver,Bargain_Hunter
+1008,56,Female,Pune,Premium_Loyalist
+1009,34,Male,Los Angeles,Practical_Buyer
+1010,56,Female,Houston,Practical_Buyer
+1011,39,Male,Chennai,Premium_Loyalist
+1012,43,Female,Denver,Premium_Loyalist
+1013,61,Male,Houston,Premium_Loyalist
+1014,42,Female,Denver,Practical_Buyer
+1015,34,Male,Ahmedabad,Practical_Buyer
+1016,30,Male,Denver,Premium_Loyalist
+1017,37,Male,Ahmedabad,Premium_Loyalist
+1018,42,Male,New York,Premium_Loyalist
+1019,21,Male,Seattle,Bargain_Hunter
+1020,27,Female,Mumbai,Trend_Setter
+1021,20,Male,Los Angeles,Trend_Setter
+1022,58,Female,Hyderabad,Premium_Loyalist
+1023,62,Female,Chicago,Practical_Buyer
+1024,35,Female,Delhi,Premium_Loyalist
+1025,64,Male,Miami,Premium_Loyalist
+1026,53,Male,Mumbai,Premium_Loyalist
+1027,64,Female,Houston,Premium_Loyalist
+1028,39,Other,New York,Practical_Buyer
+1029,51,Male,Houston,Practical_Buyer
+1030,64,Male,Seattle,Premium_Loyalist
+1031,25,Male,Miami,Trend_Setter
+1032,57,Other,Hyderabad,Premium_Loyalist
+1033,66,Male,Kolkata,Premium_Loyalist
+1034,61,Male,New York,Practical_Buyer
+1035,36,Female,Houston,Premium_Loyalist
+1036,59,Male,Seattle,Premium_Loyalist
+1037,58,Male,Kolkata,Premium_Loyalist
+1038,54,Female,Pune,Premium_Loyalist
+1039,23,Female,Delhi,Trend_Setter
+1040,69,Male,Delhi,Premium_Loyalist
+1041,43,Male,Hyderabad,Premium_Loyalist
+1042,51,Male,Houston,Practical_Buyer
+1043,62,Male,Pune,Premium_Loyalist
+1044,23,Female,Hyderabad,Trend_Setter
+1045,54,Male,Mumbai,Practical_Buyer
+1046,50,Male,Miami,Premium_Loyalist
+1047,39,Male,Boston,Practical_Buyer
+1048,38,Female,Mumbai,Premium_Loyalist
+1049,23,Female,Delhi,Trend_Setter
+1050,23,Female,Miami,Trend_Setter
+1051,65,Male,Seattle,Premium_Loyalist
+1052,21,Female,New York,Trend_Setter
+1053,47,Female,Bangalore,Practical_Buyer
+1054,28,Male,Ahmedabad,Trend_Setter
+1055,47,Male,Chennai,Premium_Loyalist
+1056,48,Male,Pune,Premium_Loyalist
+1057,41,Male,Denver,Premium_Loyalist
+1058,26,Male,Houston,Bargain_Hunter
+1059,20,Male,Bangalore,Trend_Setter
+1060,68,Male,Los Angeles,Practical_Buyer
+1061,48,Female,Miami,Practical_Buyer
+1062,57,Male,Chennai,Premium_Loyalist
+1063,54,Female,Chicago,Premium_Loyalist
+1064,53,Female,Seattle,Practical_Buyer
+1065,41,Female,Boston,Practical_Buyer
+1066,48,Female,Denver,Premium_Loyalist
+1067,23,Male,Ahmedabad,Bargain_Hunter
+1068,19,Female,Chicago,Trend_Setter
+1069,37,Male,Boston,Practical_Buyer
+1070,45,Male,Los Angeles,Premium_Loyalist
+1071,28,Female,Delhi,Trend_Setter
+1072,21,Male,Mumbai,Bargain_Hunter
+1073,32,Male,Houston,Premium_Loyalist
+1074,23,Female,New York,Trend_Setter
+1075,66,Female,Boston,Premium_Loyalist
+1076,47,Female,Denver,Practical_Buyer
+1077,55,Male,Bangalore,Practical_Buyer
+1078,68,Female,Kolkata,Practical_Buyer
+1079,19,Male,Ahmedabad,Trend_Setter
+1080,32,Female,Miami,Practical_Buyer
+1081,28,Female,Delhi,Trend_Setter
+1082,25,Female,Kolkata,Trend_Setter
+1083,43,Female,Miami,Practical_Buyer
+1084,68,Male,Denver,Premium_Loyalist
+1085,62,Female,Miami,Premium_Loyalist
+1086,61,Female,Boston,Premium_Loyalist
+1087,22,Male,Bangalore,Trend_Setter
+1088,23,Female,Kolkata,Bargain_Hunter
+1089,43,Male,Seattle,Premium_Loyalist
+1090,21,Female,Kolkata,Bargain_Hunter
+1091,36,Female,Miami,Premium_Loyalist
+1092,37,Female,Mumbai,Premium_Loyalist
+1093,50,Male,Bangalore,Premium_Loyalist
+1094,37,Female,Ahmedabad,Practical_Buyer
+1095,66,Female,Los Angeles,Premium_Loyalist
+1096,29,Female,New York,Bargain_Hunter
+1097,64,Male,Boston,Premium_Loyalist
+1098,18,Male,Chennai,Trend_Setter
+1099,43,Female,Chicago,Premium_Loyalist
+1100,31,Male,Hyderabad,Practical_Buyer
+1101,55,Female,Bangalore,Practical_Buyer
+1102,54,Female,Chennai,Premium_Loyalist
+1103,28,Female,Chennai,Trend_Setter
+1104,53,Female,Chennai,Premium_Loyalist
+1105,30,Female,Denver,Practical_Buyer
+1106,60,Male,Delhi,Premium_Loyalist
+1107,20,Male,Kolkata,Bargain_Hunter
+1108,50,Male,Bangalore,Practical_Buyer
+1109,23,Male,Boston,Trend_Setter
+1110,67,Female,Pune,Practical_Buyer
+1111,27,Female,Ahmedabad,Trend_Setter
+1112,22,Female,Kolkata,Trend_Setter
+1113,40,Female,Kolkata,Premium_Loyalist
+1114,27,Other,Seattle,Trend_Setter
+1115,61,Female,Chennai,Practical_Buyer
+1116,19,Female,Delhi,Trend_Setter
+1117,30,Female,Hyderabad,Premium_Loyalist
+1118,57,Male,Mumbai,Premium_Loyalist
+1119,19,Male,Denver,Trend_Setter
+1120,37,Male,Pune,Premium_Loyalist
+1121,18,Female,Delhi,Bargain_Hunter
+1122,54,Female,Miami,Premium_Loyalist
+1123,26,Male,Boston,Bargain_Hunter
+1124,34,Male,Pune,Practical_Buyer
+1125,26,Female,Los Angeles,Trend_Setter
+1126,28,Male,Denver,Bargain_Hunter
+1127,32,Male,Pune,Premium_Loyalist
+1128,41,Female,Houston,Premium_Loyalist
+1129,55,Male,Mumbai,Premium_Loyalist
+1130,52,Male,Chennai,Premium_Loyalist
+1131,47,Female,New York,Premium_Loyalist
+1132,48,Female,Denver,Practical_Buyer
+1133,66,Female,Seattle,Premium_Loyalist
+1134,22,Male,Boston,Bargain_Hunter
+1135,61,Male,Miami,Premium_Loyalist
+1136,67,Male,Pune,Practical_Buyer
+1137,31,Female,New York,Premium_Loyalist
+1138,28,Female,New York,Trend_Setter
+1139,26,Male,Mumbai,Trend_Setter
+1140,51,Female,Pune,Premium_Loyalist
+1141,29,Male,Delhi,Trend_Setter
+1142,52,Male,Seattle,Practical_Buyer
+1143,52,Male,Delhi,Premium_Loyalist
+1144,18,Male,Miami,Bargain_Hunter
+1145,57,Female,Pune,Premium_Loyalist
+1146,39,Female,New York,Practical_Buyer
+1147,46,Male,Seattle,Premium_Loyalist
+1148,25,Female,Seattle,Trend_Setter
+1149,28,Male,Chicago,Bargain_Hunter
+1150,58,Female,Kolkata,Premium_Loyalist
+1151,54,Female,Ahmedabad,Premium_Loyalist
+1152,31,Male,Boston,Premium_Loyalist
+1153,47,Female,Hyderabad,Premium_Loyalist
+1154,52,Male,Pune,Premium_Loyalist
+1155,38,Male,New York,Practical_Buyer
+1156,54,Male,New York,Premium_Loyalist
+1157,22,Female,Seattle,Trend_Setter
+1158,36,Female,Delhi,Premium_Loyalist
+1159,31,Male,Kolkata,Premium_Loyalist
+1160,43,Female,New York,Premium_Loyalist
+1161,21,Female,Seattle,Bargain_Hunter
+1162,42,Female,New York,Premium_Loyalist
+1163,62,Female,Ahmedabad,Practical_Buyer
+1164,59,Female,Hyderabad,Premium_Loyalist
+1165,42,Male,Kolkata,Premium_Loyalist
+1166,35,Male,Seattle,Premium_Loyalist
+1167,57,Other,Chicago,Premium_Loyalist
+1168,25,Male,Hyderabad,Trend_Setter
+1169,56,Other,Hyderabad,Premium_Loyalist
+1170,57,Female,Pune,Practical_Buyer
+1171,31,Male,Boston,Premium_Loyalist
+1172,49,Male,Kolkata,Practical_Buyer
+1173,68,Male,Pune,Premium_Loyalist
+1174,55,Female,Seattle,Practical_Buyer
+1175,50,Male,Kolkata,Practical_Buyer
+1176,40,Male,Bangalore,Premium_Loyalist
+1177,32,Male,Kolkata,Practical_Buyer
+1178,50,Male,New York,Premium_Loyalist
+1179,42,Female,Pune,Practical_Buyer
+1180,34,Male,Miami,Premium_Loyalist
+1181,50,Female,Boston,Premium_Loyalist
+1182,64,Male,Chicago,Practical_Buyer
+1183,19,Male,Chennai,Trend_Setter
+1184,31,Male,Seattle,Premium_Loyalist
+1185,57,Male,Miami,Practical_Buyer
+1186,57,Other,Seattle,Premium_Loyalist
+1187,68,Female,Delhi,Premium_Loyalist
+1188,56,Male,New York,Premium_Loyalist
+1189,68,Female,Denver,Premium_Loyalist
+1190,23,Male,Mumbai,Bargain_Hunter
+1191,23,Male,Los Angeles,Trend_Setter
+1192,20,Other,Delhi,Trend_Setter
+1193,24,Female,Pune,Bargain_Hunter
+1194,68,Other,Miami,Practical_Buyer
+1195,25,Male,Delhi,Trend_Setter
+1196,59,Female,Houston,Premium_Loyalist
+1197,69,Male,Seattle,Practical_Buyer
+1198,32,Male,Seattle,Premium_Loyalist
+1199,64,Female,Bangalore,Premium_Loyalist
+1200,46,Male,Ahmedabad,Premium_Loyalist
+1201,50,Female,Los Angeles,Premium_Loyalist
+1202,69,Female,Los Angeles,Premium_Loyalist
+1203,47,Male,Houston,Premium_Loyalist
+1204,56,Female,New York,Practical_Buyer
+1205,44,Female,Mumbai,Premium_Loyalist
+1206,53,Male,Hyderabad,Practical_Buyer
+1207,46,Female,Hyderabad,Premium_Loyalist
+1208,55,Female,Kolkata,Practical_Buyer
+1209,50,Male,Denver,Practical_Buyer
+1210,54,Female,Ahmedabad,Premium_Loyalist
+1211,44,Other,Chennai,Premium_Loyalist
+1212,50,Male,Denver,Premium_Loyalist
+1213,21,Female,Pune,Bargain_Hunter
+1214,39,Male,Chicago,Practical_Buyer
+1215,19,Female,Pune,Trend_Setter
+1216,27,Female,Bangalore,Trend_Setter
+1217,22,Male,Pune,Trend_Setter
+1218,27,Male,Chennai,Bargain_Hunter
+1219,50,Female,Chicago,Premium_Loyalist
+1220,55,Male,New York,Premium_Loyalist
+1221,30,Female,Chicago,Premium_Loyalist
+1222,48,Male,Chicago,Premium_Loyalist
+1223,64,Female,Houston,Practical_Buyer
+1224,53,Female,Houston,Premium_Loyalist
+1225,62,Female,Chicago,Premium_Loyalist
+1226,41,Male,Ahmedabad,Premium_Loyalist
+1227,69,Female,Delhi,Premium_Loyalist
+1228,32,Female,Ahmedabad,Premium_Loyalist
+1229,46,Male,Chennai,Practical_Buyer
+1230,25,Male,Boston,Bargain_Hunter
+1231,22,Male,Boston,Trend_Setter
+1232,46,Female,Kolkata,Premium_Loyalist
+1233,64,Female,Kolkata,Practical_Buyer
+1234,21,Male,New York,Trend_Setter
+1235,29,Female,Denver,Trend_Setter
+1236,62,Male,Bangalore,Practical_Buyer
+1237,19,Male,Los Angeles,Bargain_Hunter
+1238,44,Other,New York,Practical_Buyer
+1239,48,Female,Chicago,Practical_Buyer
+1240,68,Female,Ahmedabad,Practical_Buyer
+1241,68,Male,Houston,Premium_Loyalist
+1242,53,Female,Kolkata,Premium_Loyalist
+1243,53,Female,Seattle,Premium_Loyalist
+1244,43,Male,Delhi,Premium_Loyalist
+1245,60,Female,Ahmedabad,Premium_Loyalist
+1246,44,Female,Hyderabad,Premium_Loyalist
+1247,22,Female,Miami,Trend_Setter
+1248,37,Male,Ahmedabad,Premium_Loyalist
+1249,28,Female,Pune,Trend_Setter
+1250,27,Female,Pune,Trend_Setter
+1251,57,Male,Hyderabad,Premium_Loyalist
+1252,55,Female,Houston,Practical_Buyer
+1253,23,Female,Boston,Trend_Setter
+1254,25,Male,Bangalore,Trend_Setter
+1255,40,Male,Ahmedabad,Practical_Buyer
+1256,64,Female,Chennai,Premium_Loyalist
+1257,43,Female,Ahmedabad,Premium_Loyalist
+1258,63,Female,Hyderabad,Premium_Loyalist
+1259,60,Male,Houston,Premium_Loyalist
+1260,29,Other,Kolkata,Bargain_Hunter
+1261,43,Male,Delhi,Premium_Loyalist
+1262,30,Male,Chennai,Premium_Loyalist
+1263,57,Female,Ahmedabad,Premium_Loyalist
+1264,35,Male,Kolkata,Premium_Loyalist
+1265,42,Male,Los Angeles,Premium_Loyalist
+1266,50,Male,Pune,Premium_Loyalist
+1267,64,Male,Chicago,Premium_Loyalist
+1268,57,Male,Seattle,Premium_Loyalist
+1269,60,Other,Boston,Premium_Loyalist
+1270,29,Male,Boston,Bargain_Hunter
+1271,61,Female,Pune,Premium_Loyalist
+1272,53,Female,Bangalore,Practical_Buyer
+1273,65,Female,Pune,Premium_Loyalist
+1274,21,Male,Mumbai,Trend_Setter
+1275,22,Female,Denver,Trend_Setter
+1276,54,Female,Kolkata,Premium_Loyalist
+1277,25,Female,Los Angeles,Bargain_Hunter
+1278,59,Female,Boston,Premium_Loyalist
+1279,66,Female,Denver,Practical_Buyer
+1280,45,Male,Boston,Premium_Loyalist
+1281,48,Female,Chennai,Practical_Buyer
+1282,26,Female,Chicago,Trend_Setter
+1283,68,Female,Denver,Practical_Buyer
+1284,46,Other,Delhi,Premium_Loyalist
+1285,31,Male,Kolkata,Premium_Loyalist
+1286,57,Other,Mumbai,Premium_Loyalist
+1287,58,Male,Ahmedabad,Premium_Loyalist
+1288,39,Male,Chicago,Practical_Buyer
+1289,28,Male,Hyderabad,Trend_Setter
+1290,40,Male,Delhi,Premium_Loyalist
+1291,18,Female,Seattle,Trend_Setter
+1292,63,Male,Los Angeles,Premium_Loyalist
+1293,54,Male,Los Angeles,Premium_Loyalist
+1294,38,Female,Miami,Premium_Loyalist
+1295,43,Female,Miami,Premium_Loyalist
+1296,63,Female,Kolkata,Practical_Buyer
+1297,53,Female,Denver,Premium_Loyalist
+1298,40,Female,Chennai,Premium_Loyalist
+1299,18,Male,Los Angeles,Bargain_Hunter
+1300,68,Male,Bangalore,Premium_Loyalist
+1301,57,Female,Hyderabad,Premium_Loyalist
+1302,32,Male,Kolkata,Premium_Loyalist
+1303,38,Female,Denver,Premium_Loyalist
+1304,64,Male,Miami,Premium_Loyalist
+1305,26,Male,Hyderabad,Bargain_Hunter
+1306,26,Female,Seattle,Trend_Setter
+1307,27,Female,Boston,Trend_Setter
+1308,69,Female,Delhi,Practical_Buyer
+1309,43,Female,Kolkata,Practical_Buyer
+1310,58,Male,Hyderabad,Premium_Loyalist
+1311,52,Male,Chennai,Premium_Loyalist
+1312,69,Female,Houston,Premium_Loyalist
+1313,42,Female,Kolkata,Practical_Buyer
+1314,43,Male,Denver,Practical_Buyer
+1315,28,Female,Seattle,Trend_Setter
+1316,55,Male,Ahmedabad,Premium_Loyalist
+1317,19,Male,Delhi,Trend_Setter
+1318,24,Male,Los Angeles,Bargain_Hunter
+1319,35,Female,Pune,Premium_Loyalist
+1320,44,Female,Boston,Premium_Loyalist
+1321,51,Male,Delhi,Practical_Buyer
+1322,44,Female,Ahmedabad,Premium_Loyalist
+1323,34,Male,Mumbai,Premium_Loyalist
+1324,60,Male,Miami,Premium_Loyalist
+1325,61,Male,Delhi,Premium_Loyalist
+1326,68,Male,Houston,Premium_Loyalist
+1327,41,Male,Seattle,Premium_Loyalist
+1328,42,Female,Ahmedabad,Premium_Loyalist
+1329,24,Female,Boston,Bargain_Hunter
+1330,69,Female,Bangalore,Premium_Loyalist
+1331,23,Male,Pune,Trend_Setter
+1332,41,Male,Chicago,Premium_Loyalist
+1333,50,Male,Delhi,Practical_Buyer
+1334,66,Male,Bangalore,Practical_Buyer
+1335,46,Female,Bangalore,Premium_Loyalist
+1336,60,Male,New York,Premium_Loyalist
+1337,39,Female,Ahmedabad,Premium_Loyalist
+1338,43,Female,Houston,Premium_Loyalist
+1339,45,Male,Pune,Premium_Loyalist
+1340,67,Female,Houston,Practical_Buyer
+1341,38,Female,New York,Practical_Buyer
+1342,66,Female,Mumbai,Premium_Loyalist
+1343,24,Female,Chicago,Bargain_Hunter
+1344,34,Male,Miami,Practical_Buyer
+1345,37,Male,Ahmedabad,Premium_Loyalist
+1346,58,Male,Seattle,Premium_Loyalist
+1347,66,Male,Boston,Practical_Buyer
+1348,37,Female,Seattle,Premium_Loyalist
+1349,39,Male,Chicago,Practical_Buyer
+1350,45,Female,Seattle,Practical_Buyer
+1351,57,Female,New York,Premium_Loyalist
+1352,66,Male,Houston,Practical_Buyer
+1353,24,Male,Seattle,Bargain_Hunter
+1354,18,Female,Ahmedabad,Bargain_Hunter
+1355,49,Female,Denver,Premium_Loyalist
+1356,30,Female,Bangalore,Premium_Loyalist
+1357,47,Male,Kolkata,Premium_Loyalist
+1358,40,Male,Bangalore,Premium_Loyalist
+1359,68,Male,Delhi,Premium_Loyalist
+1360,36,Male,Chicago,Premium_Loyalist
+1361,49,Female,Mumbai,Premium_Loyalist
+1362,47,Female,Chennai,Practical_Buyer
+1363,46,Female,Chennai,Practical_Buyer
+1364,66,Female,Denver,Practical_Buyer
+1365,62,Female,Hyderabad,Premium_Loyalist
+1366,46,Male,New York,Practical_Buyer
+1367,47,Male,Los Angeles,Practical_Buyer
+1368,33,Female,New York,Premium_Loyalist
+1369,57,Male,Bangalore,Premium_Loyalist
+1370,36,Female,Mumbai,Premium_Loyalist
+1371,35,Female,Mumbai,Practical_Buyer
+1372,18,Male,Denver,Trend_Setter
+1373,31,Female,Delhi,Premium_Loyalist
+1374,68,Female,Chicago,Premium_Loyalist
+1375,64,Female,Kolkata,Premium_Loyalist
+1376,67,Female,Pune,Premium_Loyalist
+1377,19,Female,Miami,Bargain_Hunter
+1378,45,Male,Pune,Premium_Loyalist
+1379,66,Male,Houston,Practical_Buyer
+1380,67,Female,Ahmedabad,Premium_Loyalist
+1381,47,Female,Denver,Premium_Loyalist
+1382,55,Male,Hyderabad,Premium_Loyalist
+1383,68,Male,Mumbai,Premium_Loyalist
+1384,21,Female,Chennai,Trend_Setter
+1385,18,Female,Los Angeles,Bargain_Hunter
+1386,25,Female,Kolkata,Bargain_Hunter
+1387,46,Female,Boston,Practical_Buyer
+1388,56,Male,Ahmedabad,Practical_Buyer
+1389,20,Male,Pune,Trend_Setter
+1390,49,Female,Mumbai,Premium_Loyalist
+1391,27,Male,Delhi,Bargain_Hunter
+1392,27,Male,Hyderabad,Trend_Setter
+1393,36,Male,Delhi,Premium_Loyalist
+1394,63,Female,Mumbai,Premium_Loyalist
+1395,51,Female,Hyderabad,Premium_Loyalist
+1396,50,Male,Delhi,Premium_Loyalist
+1397,40,Male,Hyderabad,Practical_Buyer
+1398,45,Female,Denver,Premium_Loyalist
+1399,49,Other,Pune,Premium_Loyalist
+1400,67,Male,Mumbai,Practical_Buyer
+1401,24,Female,Mumbai,Bargain_Hunter
+1402,46,Male,Hyderabad,Premium_Loyalist
+1403,25,Female,Chicago,Trend_Setter
+1404,18,Male,Houston,Bargain_Hunter
+1405,20,Male,Ahmedabad,Bargain_Hunter
+1406,41,Female,Los Angeles,Premium_Loyalist
+1407,40,Female,Delhi,Practical_Buyer
+1408,25,Male,Chicago,Bargain_Hunter
+1409,64,Female,Bangalore,Premium_Loyalist
+1410,54,Male,Bangalore,Premium_Loyalist
+1411,20,Female,Miami,Trend_Setter
+1412,68,Male,Miami,Practical_Buyer
+1413,50,Female,Seattle,Premium_Loyalist
+1414,45,Male,Kolkata,Premium_Loyalist
+1415,64,Female,Denver,Premium_Loyalist
+1416,25,Female,Denver,Trend_Setter
+1417,51,Female,New York,Premium_Loyalist
+1418,52,Female,Ahmedabad,Premium_Loyalist
+1419,49,Female,Hyderabad,Premium_Loyalist
+1420,41,Male,Ahmedabad,Practical_Buyer
+1421,31,Male,Los Angeles,Premium_Loyalist
+1422,49,Female,Chennai,Premium_Loyalist
+1423,63,Male,Mumbai,Practical_Buyer
+1424,60,Female,Delhi,Premium_Loyalist
+1425,33,Other,Los Angeles,Premium_Loyalist
+1426,21,Male,Seattle,Bargain_Hunter
+1427,69,Female,Bangalore,Premium_Loyalist
+1428,54,Male,Bangalore,Premium_Loyalist
+1429,38,Female,Ahmedabad,Premium_Loyalist
+1430,31,Male,New York,Premium_Loyalist
+1431,48,Male,Chicago,Practical_Buyer
+1432,65,Female,Los Angeles,Premium_Loyalist
+1433,35,Female,Chicago,Practical_Buyer
+1434,24,Female,Miami,Bargain_Hunter
+1435,27,Female,Bangalore,Trend_Setter
+1436,24,Male,Delhi,Bargain_Hunter
+1437,50,Female,Ahmedabad,Premium_Loyalist
+1438,40,Male,Seattle,Premium_Loyalist
+1439,38,Female,Mumbai,Premium_Loyalist
+1440,36,Female,Chennai,Practical_Buyer
+1441,65,Female,Bangalore,Practical_Buyer
+1442,36,Female,Pune,Premium_Loyalist
+1443,53,Male,Pune,Premium_Loyalist
+1444,46,Female,Ahmedabad,Practical_Buyer
+1445,35,Male,Delhi,Premium_Loyalist
+1446,19,Female,Chennai,Bargain_Hunter
+1447,18,Male,Chennai,Trend_Setter
+1448,64,Female,Kolkata,Premium_Loyalist
+1449,22,Female,Houston,Bargain_Hunter
+1450,37,Male,Denver,Premium_Loyalist
+1451,28,Male,Seattle,Bargain_Hunter
+1452,59,Female,Los Angeles,Practical_Buyer
+1453,19,Male,Delhi,Trend_Setter
+1454,20,Male,Bangalore,Trend_Setter
+1455,40,Male,Bangalore,Practical_Buyer
+1456,29,Male,Bangalore,Bargain_Hunter
+1457,37,Female,Pune,Premium_Loyalist
+1458,22,Female,Pune,Bargain_Hunter
+1459,54,Male,Boston,Premium_Loyalist
+1460,55,Male,Denver,Premium_Loyalist
+1461,47,Male,Pune,Practical_Buyer
+1462,26,Male,Pune,Trend_Setter
+1463,51,Male,Denver,Practical_Buyer
+1464,61,Male,Hyderabad,Premium_Loyalist
+1465,52,Male,Pune,Premium_Loyalist
+1466,69,Female,Boston,Premium_Loyalist
+1467,39,Male,Chennai,Premium_Loyalist
+1468,61,Female,Chennai,Premium_Loyalist
+1469,41,Female,Kolkata,Premium_Loyalist
+1470,34,Female,Hyderabad,Premium_Loyalist
+1471,27,Female,Bangalore,Trend_Setter
+1472,47,Female,New York,Premium_Loyalist
+1473,63,Female,Pune,Practical_Buyer
+1474,40,Female,Kolkata,Premium_Loyalist
+1475,49,Female,New York,Premium_Loyalist
+1476,34,Female,Boston,Premium_Loyalist
+1477,67,Female,Houston,Premium_Loyalist
+1478,68,Male,Miami,Premium_Loyalist
+1479,34,Male,Boston,Premium_Loyalist
+1480,31,Male,Miami,Premium_Loyalist
+1481,26,Female,Delhi,Bargain_Hunter
+1482,57,Female,Ahmedabad,Practical_Buyer
+1483,19,Female,Houston,Trend_Setter
+1484,62,Female,Chennai,Premium_Loyalist
+1485,42,Male,Seattle,Premium_Loyalist
+1486,56,Male,Kolkata,Premium_Loyalist
+1487,26,Female,Pune,Trend_Setter
+1488,39,Female,Chennai,Premium_Loyalist
+1489,60,Other,Miami,Premium_Loyalist
+1490,63,Male,Hyderabad,Premium_Loyalist
+1491,21,Female,Denver,Trend_Setter
+1492,43,Female,Ahmedabad,Premium_Loyalist
+1493,46,Female,Hyderabad,Premium_Loyalist
+1494,62,Female,Delhi,Premium_Loyalist
+1495,51,Female,Denver,Premium_Loyalist
+1496,40,Male,Kolkata,Premium_Loyalist
+1497,54,Female,Houston,Premium_Loyalist
+1498,28,Female,Chennai,Trend_Setter
+1499,23,Female,Kolkata,Trend_Setter
+1500,35,Female,Miami,Premium_Loyalist
+1501,38,Male,Kolkata,Premium_Loyalist
+1502,59,Male,Chicago,Premium_Loyalist
+1503,53,Other,Pune,Premium_Loyalist
+1504,58,Female,Houston,Premium_Loyalist
+1505,55,Female,Pune,Premium_Loyalist
+1506,51,Male,Hyderabad,Practical_Buyer
+1507,34,Female,Houston,Premium_Loyalist
+1508,54,Female,Chicago,Premium_Loyalist
+1509,42,Female,Kolkata,Practical_Buyer
+1510,55,Male,Delhi,Practical_Buyer
+1511,29,Female,Miami,Trend_Setter
+1512,40,Female,Ahmedabad,Premium_Loyalist
+1513,59,Male,Miami,Premium_Loyalist
+1514,39,Female,Bangalore,Premium_Loyalist
+1515,38,Female,Denver,Premium_Loyalist
+1516,44,Female,Houston,Premium_Loyalist
+1517,48,Female,Kolkata,Premium_Loyalist
+1518,23,Male,Houston,Bargain_Hunter
+1519,44,Male,Mumbai,Practical_Buyer
+1520,57,Male,Seattle,Premium_Loyalist
+1521,51,Male,Pune,Premium_Loyalist
+1522,29,Female,Houston,Trend_Setter
+1523,62,Male,Los Angeles,Practical_Buyer
+1524,24,Female,Seattle,Trend_Setter
+1525,27,Other,Ahmedabad,Trend_Setter
+1526,62,Female,Ahmedabad,Premium_Loyalist
+1527,34,Female,Los Angeles,Premium_Loyalist
+1528,43,Female,Miami,Premium_Loyalist
+1529,38,Female,Seattle,Practical_Buyer
+1530,45,Male,Houston,Premium_Loyalist
+1531,63,Male,Hyderabad,Premium_Loyalist
+1532,19,Female,Kolkata,Trend_Setter
+1533,60,Female,Chicago,Premium_Loyalist
+1534,18,Female,Denver,Bargain_Hunter
+1535,68,Female,Los Angeles,Practical_Buyer
+1536,53,Female,Kolkata,Practical_Buyer
+1537,68,Male,Bangalore,Practical_Buyer
+1538,43,Other,Hyderabad,Premium_Loyalist
+1539,46,Female,Seattle,Premium_Loyalist
+1540,38,Male,Kolkata,Premium_Loyalist
+1541,28,Female,Houston,Bargain_Hunter
+1542,57,Male,Seattle,Premium_Loyalist
+1543,28,Female,Houston,Trend_Setter
+1544,53,Female,Houston,Practical_Buyer
+1545,66,Male,Pune,Premium_Loyalist
+1546,56,Female,Houston,Premium_Loyalist
+1547,57,Female,Mumbai,Premium_Loyalist
+1548,52,Male,Denver,Premium_Loyalist
+1549,51,Male,Chicago,Premium_Loyalist
+1550,64,Female,Chicago,Practical_Buyer
+1551,41,Male,Seattle,Premium_Loyalist
+1552,39,Male,Seattle,Practical_Buyer
+1553,22,Male,Houston,Trend_Setter
+1554,50,Male,Pune,Premium_Loyalist
+1555,53,Female,Pune,Practical_Buyer
+1556,64,Female,Mumbai,Premium_Loyalist
+1557,37,Male,Houston,Premium_Loyalist
+1558,36,Female,Mumbai,Practical_Buyer
+1559,52,Male,Ahmedabad,Premium_Loyalist
+1560,69,Female,Houston,Premium_Loyalist
+1561,60,Other,Los Angeles,Premium_Loyalist
+1562,34,Male,Los Angeles,Premium_Loyalist
+1563,62,Female,Miami,Premium_Loyalist
+1564,60,Female,Houston,Premium_Loyalist
+1565,51,Male,Denver,Practical_Buyer
+1566,26,Male,Hyderabad,Bargain_Hunter
+1567,43,Male,Bangalore,Premium_Loyalist
+1568,19,Female,Miami,Trend_Setter
+1569,26,Other,Seattle,Trend_Setter
+1570,26,Female,Delhi,Trend_Setter
+1571,57,Female,Houston,Premium_Loyalist
+1572,34,Female,Kolkata,Practical_Buyer
+1573,18,Female,Chennai,Bargain_Hunter
+1574,42,Female,Los Angeles,Premium_Loyalist
+1575,60,Male,Kolkata,Premium_Loyalist
+1576,57,Female,Delhi,Premium_Loyalist
+1577,59,Female,Mumbai,Premium_Loyalist
+1578,42,Male,Delhi,Premium_Loyalist
+1579,56,Female,Pune,Practical_Buyer
+1580,52,Male,Denver,Premium_Loyalist
+1581,20,Female,Houston,Bargain_Hunter
+1582,67,Female,Chicago,Premium_Loyalist
+1583,54,Male,Delhi,Premium_Loyalist
+1584,61,Male,Hyderabad,Premium_Loyalist
+1585,61,Male,Pune,Premium_Loyalist
+1586,68,Female,Ahmedabad,Premium_Loyalist
+1587,47,Male,Chicago,Premium_Loyalist
+1588,55,Female,Mumbai,Practical_Buyer
+1589,51,Male,Miami,Premium_Loyalist
+1590,29,Other,Kolkata,Trend_Setter
+1591,36,Female,Pune,Practical_Buyer
+1592,54,Female,Chicago,Practical_Buyer
+1593,61,Female,Pune,Practical_Buyer
+1594,66,Female,Miami,Premium_Loyalist
+1595,34,Female,Ahmedabad,Practical_Buyer
+1596,27,Male,Los Angeles,Trend_Setter
+1597,66,Male,Bangalore,Premium_Loyalist
+1598,64,Male,Houston,Premium_Loyalist
+1599,29,Male,Delhi,Bargain_Hunter
+1600,33,Male,Los Angeles,Premium_Loyalist
+1601,41,Female,Los Angeles,Premium_Loyalist
+1602,36,Other,Chennai,Premium_Loyalist
+1603,25,Male,Boston,Trend_Setter
+1604,48,Female,New York,Premium_Loyalist
+1605,38,Male,Ahmedabad,Practical_Buyer
+1606,34,Female,Ahmedabad,Practical_Buyer
+1607,40,Female,Ahmedabad,Premium_Loyalist
+1608,54,Female,Hyderabad,Practical_Buyer
+1609,33,Other,Denver,Premium_Loyalist
+1610,23,Male,Miami,Trend_Setter
+1611,25,Female,Pune,Trend_Setter
+1612,42,Female,Bangalore,Premium_Loyalist
+1613,35,Male,Boston,Practical_Buyer
+1614,42,Female,New York,Premium_Loyalist
+1615,29,Male,Bangalore,Trend_Setter
+1616,32,Female,Denver,Premium_Loyalist
+1617,43,Male,Miami,Premium_Loyalist
+1618,58,Male,Houston,Practical_Buyer
+1619,62,Female,Denver,Practical_Buyer
+1620,43,Female,Delhi,Premium_Loyalist
+1621,64,Male,Pune,Practical_Buyer
+1622,49,Male,Los Angeles,Premium_Loyalist
+1623,27,Female,Chennai,Bargain_Hunter
+1624,33,Male,Pune,Premium_Loyalist
+1625,24,Male,New York,Trend_Setter
+1626,34,Female,New York,Premium_Loyalist
+1627,40,Female,Bangalore,Premium_Loyalist
+1628,43,Male,Chennai,Premium_Loyalist
+1629,38,Female,Ahmedabad,Premium_Loyalist
+1630,39,Female,New York,Premium_Loyalist
+1631,24,Female,Pune,Bargain_Hunter
+1632,31,Female,Chennai,Premium_Loyalist
+1633,32,Male,Miami,Premium_Loyalist
+1634,24,Male,Delhi,Trend_Setter
+1635,26,Male,Denver,Bargain_Hunter
+1636,68,Female,Los Angeles,Premium_Loyalist
+1637,65,Male,Delhi,Practical_Buyer
+1638,25,Female,Boston,Bargain_Hunter
+1639,67,Male,Houston,Premium_Loyalist
+1640,40,Male,Chennai,Premium_Loyalist
+1641,46,Female,Chicago,Premium_Loyalist
+1642,35,Male,Delhi,Premium_Loyalist
+1643,48,Male,Bangalore,Practical_Buyer
+1644,47,Female,Boston,Practical_Buyer
+1645,69,Male,Los Angeles,Premium_Loyalist
+1646,56,Female,Bangalore,Premium_Loyalist
+1647,52,Female,Bangalore,Practical_Buyer
+1648,35,Male,Kolkata,Premium_Loyalist
+1649,59,Female,Chicago,Premium_Loyalist
+1650,56,Female,Chennai,Premium_Loyalist
+1651,34,Male,Chicago,Premium_Loyalist
+1652,31,Male,Delhi,Practical_Buyer
+1653,48,Male,Bangalore,Premium_Loyalist
+1654,41,Female,New York,Premium_Loyalist
+1655,52,Male,Seattle,Practical_Buyer
+1656,61,Female,Los Angeles,Premium_Loyalist
+1657,62,Female,New York,Practical_Buyer
+1658,51,Female,Ahmedabad,Premium_Loyalist
+1659,20,Male,Los Angeles,Trend_Setter
+1660,54,Male,Chennai,Practical_Buyer
+1661,60,Female,Seattle,Premium_Loyalist
+1662,57,Male,Hyderabad,Premium_Loyalist
+1663,43,Male,Houston,Premium_Loyalist
+1664,40,Male,Seattle,Premium_Loyalist
+1665,61,Male,Chennai,Premium_Loyalist
+1666,56,Female,Mumbai,Practical_Buyer
+1667,32,Male,Ahmedabad,Practical_Buyer
+1668,66,Male,Kolkata,Practical_Buyer
+1669,21,Male,Delhi,Trend_Setter
+1670,46,Female,Chennai,Premium_Loyalist
+1671,39,Female,Delhi,Premium_Loyalist
+1672,42,Male,Boston,Practical_Buyer
+1673,30,Female,New York,Premium_Loyalist
+1674,35,Female,Kolkata,Premium_Loyalist
+1675,50,Female,Boston,Practical_Buyer
+1676,33,Female,Mumbai,Premium_Loyalist
+1677,62,Male,Seattle,Premium_Loyalist
+1678,59,Male,Delhi,Practical_Buyer
+1679,61,Male,Pune,Practical_Buyer
+1680,19,Male,Miami,Trend_Setter
+1681,52,Other,Seattle,Premium_Loyalist
+1682,59,Male,Ahmedabad,Practical_Buyer
+1683,51,Male,Kolkata,Premium_Loyalist
+1684,47,Female,Seattle,Premium_Loyalist
+1685,30,Female,Mumbai,Premium_Loyalist
+1686,30,Male,Houston,Premium_Loyalist
+1687,35,Male,Los Angeles,Premium_Loyalist
+1688,49,Male,Bangalore,Premium_Loyalist
+1689,49,Female,Bangalore,Premium_Loyalist
+1690,52,Male,Mumbai,Premium_Loyalist
+1691,56,Male,Ahmedabad,Practical_Buyer
+1692,63,Female,Los Angeles,Practical_Buyer
+1693,69,Male,Ahmedabad,Practical_Buyer
+1694,46,Female,Delhi,Premium_Loyalist
+1695,66,Female,Mumbai,Premium_Loyalist
+1696,46,Male,Los Angeles,Premium_Loyalist
+1697,61,Female,Chennai,Practical_Buyer
+1698,33,Female,Boston,Premium_Loyalist
+1699,61,Male,Mumbai,Premium_Loyalist
+1700,64,Female,Chennai,Practical_Buyer
+1701,27,Female,Delhi,Trend_Setter
+1702,47,Female,Mumbai,Premium_Loyalist
+1703,42,Male,Delhi,Practical_Buyer
+1704,56,Other,Ahmedabad,Practical_Buyer
+1705,37,Male,Mumbai,Premium_Loyalist
+1706,22,Male,Los Angeles,Bargain_Hunter
+1707,18,Male,Ahmedabad,Bargain_Hunter
+1708,47,Male,Houston,Practical_Buyer
+1709,66,Female,Denver,Premium_Loyalist
+1710,20,Male,Chennai,Trend_Setter
+1711,62,Male,Los Angeles,Premium_Loyalist
+1712,31,Female,New York,Practical_Buyer
+1713,47,Male,Chicago,Premium_Loyalist
+1714,67,Male,Chennai,Premium_Loyalist
+1715,21,Male,Houston,Trend_Setter
+1716,35,Male,Boston,Practical_Buyer
+1717,54,Male,Seattle,Premium_Loyalist
+1718,42,Female,Bangalore,Premium_Loyalist
+1719,65,Male,Los Angeles,Premium_Loyalist
+1720,18,Male,Pune,Trend_Setter
+1721,63,Female,Mumbai,Premium_Loyalist
+1722,32,Female,Hyderabad,Premium_Loyalist
+1723,26,Male,Los Angeles,Trend_Setter
+1724,32,Female,Kolkata,Premium_Loyalist
+1725,66,Male,Pune,Practical_Buyer
+1726,41,Female,Chennai,Premium_Loyalist
+1727,21,Female,Miami,Trend_Setter
+1728,29,Male,Chennai,Bargain_Hunter
+1729,54,Female,Houston,Premium_Loyalist
+1730,54,Male,Kolkata,Practical_Buyer
+1731,60,Female,Denver,Premium_Loyalist
+1732,23,Male,Boston,Trend_Setter
+1733,56,Female,Miami,Premium_Loyalist
+1734,63,Female,Delhi,Practical_Buyer
+1735,41,Female,Hyderabad,Premium_Loyalist
+1736,28,Male,Hyderabad,Trend_Setter
+1737,30,Female,Miami,Practical_Buyer
+1738,51,Female,Los Angeles,Premium_Loyalist
+1739,42,Female,Boston,Premium_Loyalist
+1740,24,Female,Hyderabad,Trend_Setter
+1741,69,Female,Los Angeles,Practical_Buyer
+1742,21,Male,Ahmedabad,Trend_Setter
+1743,25,Male,Delhi,Trend_Setter
+1744,37,Female,Chennai,Premium_Loyalist
+1745,46,Male,Seattle,Premium_Loyalist
+1746,68,Other,Boston,Practical_Buyer
+1747,62,Female,Seattle,Practical_Buyer
+1748,63,Female,Houston,Practical_Buyer
+1749,27,Male,Kolkata,Bargain_Hunter
+1750,60,Female,Houston,Premium_Loyalist
+1751,51,Female,Seattle,Premium_Loyalist
+1752,43,Female,Hyderabad,Practical_Buyer
+1753,58,Female,Pune,Premium_Loyalist
+1754,66,Male,Ahmedabad,Premium_Loyalist
+1755,20,Female,Kolkata,Bargain_Hunter
+1756,23,Female,Houston,Trend_Setter
+1757,22,Male,Boston,Bargain_Hunter
+1758,22,Male,Mumbai,Trend_Setter
+1759,64,Female,Ahmedabad,Premium_Loyalist
+1760,40,Female,New York,Premium_Loyalist
+1761,66,Other,Kolkata,Premium_Loyalist
+1762,26,Female,Houston,Bargain_Hunter
+1763,52,Male,Houston,Premium_Loyalist
+1764,37,Male,Los Angeles,Premium_Loyalist
+1765,66,Male,Seattle,Premium_Loyalist
+1766,59,Male,Chicago,Premium_Loyalist
+1767,52,Male,Denver,Premium_Loyalist
+1768,67,Male,Ahmedabad,Practical_Buyer
+1769,35,Male,Kolkata,Premium_Loyalist
+1770,34,Female,Bangalore,Practical_Buyer
+1771,41,Male,Ahmedabad,Practical_Buyer
+1772,20,Female,Bangalore,Trend_Setter
+1773,49,Female,Miami,Premium_Loyalist
+1774,52,Male,Houston,Practical_Buyer
+1775,55,Male,Miami,Premium_Loyalist
+1776,30,Male,Boston,Premium_Loyalist
+1777,64,Male,Chicago,Premium_Loyalist
+1778,42,Female,Hyderabad,Practical_Buyer
+1779,26,Male,Denver,Bargain_Hunter
+1780,21,Male,Pune,Bargain_Hunter
+1781,31,Male,Hyderabad,Premium_Loyalist
+1782,54,Other,Seattle,Premium_Loyalist
+1783,51,Female,Chennai,Premium_Loyalist
+1784,28,Female,Ahmedabad,Trend_Setter
+1785,58,Male,New York,Premium_Loyalist
+1786,20,Female,Kolkata,Bargain_Hunter
+1787,45,Female,Denver,Practical_Buyer
+1788,46,Female,Hyderabad,Premium_Loyalist
+1789,26,Other,Kolkata,Trend_Setter
+1790,20,Male,Denver,Trend_Setter
+1791,42,Female,Hyderabad,Premium_Loyalist
+1792,51,Female,Ahmedabad,Practical_Buyer
+1793,29,Male,Pune,Bargain_Hunter
+1794,59,Male,Chennai,Premium_Loyalist
+1795,26,Other,New York,Trend_Setter
+1796,32,Male,Mumbai,Premium_Loyalist
+1797,57,Female,Seattle,Premium_Loyalist
+1798,42,Other,Pune,Premium_Loyalist
+1799,22,Female,Chennai,Trend_Setter
+1800,28,Male,Los Angeles,Trend_Setter
+1801,51,Female,Miami,Practical_Buyer
+1802,41,Male,Kolkata,Premium_Loyalist
+1803,32,Female,Bangalore,Premium_Loyalist
+1804,55,Male,Houston,Premium_Loyalist
+1805,25,Female,Denver,Trend_Setter
+1806,22,Female,Boston,Trend_Setter
+1807,65,Female,Ahmedabad,Premium_Loyalist
+1808,43,Female,Bangalore,Premium_Loyalist
+1809,35,Female,Hyderabad,Premium_Loyalist
+1810,23,Female,Pune,Bargain_Hunter
+1811,54,Male,Bangalore,Premium_Loyalist
+1812,65,Female,New York,Practical_Buyer
+1813,30,Male,Miami,Premium_Loyalist
+1814,45,Female,Pune,Premium_Loyalist
+1815,22,Male,Chicago,Trend_Setter
+1816,30,Male,New York,Premium_Loyalist
+1817,34,Female,Chennai,Practical_Buyer
+1818,67,Male,Chicago,Practical_Buyer
+1819,57,Male,Hyderabad,Practical_Buyer
+1820,62,Female,Seattle,Practical_Buyer
+1821,49,Female,Hyderabad,Premium_Loyalist
+1822,46,Female,Denver,Premium_Loyalist
+1823,68,Male,Ahmedabad,Premium_Loyalist
+1824,20,Female,Boston,Bargain_Hunter
+1825,57,Male,Kolkata,Practical_Buyer
+1826,51,Female,Bangalore,Premium_Loyalist
+1827,57,Female,Houston,Practical_Buyer
+1828,44,Female,Chicago,Premium_Loyalist
+1829,30,Male,Miami,Premium_Loyalist
+1830,62,Male,Mumbai,Premium_Loyalist
+1831,50,Male,Kolkata,Premium_Loyalist
+1832,23,Male,Seattle,Bargain_Hunter
+1833,41,Male,Pune,Premium_Loyalist
+1834,36,Female,Mumbai,Premium_Loyalist
+1835,33,Male,Pune,Premium_Loyalist
+1836,57,Female,Seattle,Premium_Loyalist
+1837,45,Male,Los Angeles,Premium_Loyalist
+1838,50,Female,Kolkata,Premium_Loyalist
+1839,65,Female,Miami,Premium_Loyalist
+1840,58,Male,Chennai,Premium_Loyalist
+1841,30,Male,Bangalore,Premium_Loyalist
+1842,60,Female,Mumbai,Practical_Buyer
+1843,62,Male,Boston,Premium_Loyalist
+1844,42,Female,Denver,Premium_Loyalist
+1845,59,Female,New York,Premium_Loyalist
+1846,53,Female,Houston,Premium_Loyalist
+1847,44,Male,Chennai,Premium_Loyalist
+1848,55,Female,Denver,Practical_Buyer
+1849,24,Female,Ahmedabad,Bargain_Hunter
+1850,22,Female,Bangalore,Bargain_Hunter
+1851,60,Male,Denver,Premium_Loyalist
+1852,62,Female,Pune,Premium_Loyalist
+1853,68,Female,Seattle,Practical_Buyer
+1854,48,Female,Boston,Premium_Loyalist
+1855,40,Male,Bangalore,Premium_Loyalist
+1856,59,Female,Kolkata,Practical_Buyer
+1857,27,Male,Seattle,Trend_Setter
+1858,49,Female,Delhi,Premium_Loyalist
+1859,60,Female,Ahmedabad,Premium_Loyalist
+1860,47,Female,Chicago,Premium_Loyalist
+1861,56,Female,Houston,Premium_Loyalist
+1862,48,Male,Hyderabad,Premium_Loyalist
+1863,35,Other,Chicago,Premium_Loyalist
+1864,53,Male,New York,Premium_Loyalist
+1865,19,Female,Pune,Trend_Setter
+1866,31,Female,Delhi,Practical_Buyer
+1867,30,Female,Miami,Premium_Loyalist
+1868,46,Male,Pune,Premium_Loyalist
+1869,29,Female,New York,Trend_Setter
+1870,56,Female,New York,Practical_Buyer
+1871,19,Male,Los Angeles,Trend_Setter
+1872,49,Female,Kolkata,Premium_Loyalist
+1873,30,Male,Houston,Premium_Loyalist
+1874,63,Male,Seattle,Practical_Buyer
+1875,44,Male,Boston,Premium_Loyalist
+1876,66,Male,Kolkata,Premium_Loyalist
+1877,58,Female,Ahmedabad,Premium_Loyalist
+1878,34,Male,Chicago,Premium_Loyalist
+1879,57,Male,New York,Practical_Buyer
+1880,48,Male,Chicago,Practical_Buyer
+1881,51,Female,Chennai,Premium_Loyalist
+1882,41,Female,Chicago,Practical_Buyer
+1883,62,Male,Miami,Premium_Loyalist
+1884,52,Male,Bangalore,Premium_Loyalist
+1885,65,Female,Chennai,Premium_Loyalist
+1886,23,Male,Chennai,Trend_Setter
+1887,36,Female,Houston,Practical_Buyer
+1888,47,Male,Kolkata,Premium_Loyalist
+1889,24,Female,Houston,Trend_Setter
+1890,27,Male,Mumbai,Bargain_Hunter
+1891,58,Female,Denver,Premium_Loyalist
+1892,49,Male,Houston,Premium_Loyalist
+1893,51,Other,Chicago,Premium_Loyalist
+1894,45,Male,Seattle,Practical_Buyer
+1895,32,Female,Chicago,Premium_Loyalist
+1896,47,Male,Seattle,Premium_Loyalist
+1897,54,Male,Bangalore,Practical_Buyer
+1898,46,Female,Kolkata,Practical_Buyer
+1899,39,Male,Bangalore,Premium_Loyalist
+1900,21,Female,Kolkata,Bargain_Hunter
+1901,37,Female,Kolkata,Premium_Loyalist
+1902,49,Female,Chennai,Premium_Loyalist
+1903,53,Male,Mumbai,Premium_Loyalist
+1904,67,Female,Seattle,Practical_Buyer
+1905,21,Male,Chennai,Trend_Setter
+1906,44,Female,Houston,Premium_Loyalist
+1907,34,Female,Pune,Premium_Loyalist
+1908,29,Female,Miami,Bargain_Hunter
+1909,39,Female,Kolkata,Premium_Loyalist
+1910,34,Female,Seattle,Premium_Loyalist
+1911,27,Male,Bangalore,Trend_Setter
+1912,18,Female,Chicago,Bargain_Hunter
+1913,39,Male,Boston,Practical_Buyer
+1914,43,Female,Houston,Premium_Loyalist
+1915,35,Female,Boston,Premium_Loyalist
+1916,67,Female,Delhi,Practical_Buyer
+1917,31,Male,Delhi,Premium_Loyalist
+1918,64,Female,Ahmedabad,Practical_Buyer
+1919,46,Male,Chicago,Practical_Buyer
+1920,29,Male,Delhi,Trend_Setter
+1921,53,Male,Denver,Premium_Loyalist
+1922,52,Male,Bangalore,Premium_Loyalist
+1923,69,Male,Kolkata,Premium_Loyalist
+1924,29,Female,Chennai,Bargain_Hunter
+1925,24,Male,Mumbai,Trend_Setter
+1926,46,Male,Houston,Premium_Loyalist
+1927,28,Female,Boston,Trend_Setter
+1928,50,Male,Chicago,Premium_Loyalist
+1929,23,Female,Ahmedabad,Trend_Setter
+1930,64,Female,Denver,Practical_Buyer
+1931,32,Female,Chicago,Premium_Loyalist
+1932,49,Female,Chennai,Practical_Buyer
+1933,68,Female,Pune,Premium_Loyalist
+1934,28,Female,Pune,Trend_Setter
+1935,40,Male,Denver,Practical_Buyer
+1936,43,Female,Hyderabad,Premium_Loyalist
+1937,51,Male,Bangalore,Premium_Loyalist
+1938,63,Female,Delhi,Premium_Loyalist
+1939,51,Male,Delhi,Premium_Loyalist
+1940,46,Female,Bangalore,Premium_Loyalist
+1941,21,Male,Bangalore,Trend_Setter
+1942,34,Female,Seattle,Premium_Loyalist
+1943,52,Male,Los Angeles,Premium_Loyalist
+1944,30,Female,Bangalore,Premium_Loyalist
+1945,58,Female,Chicago,Premium_Loyalist
+1946,56,Male,Ahmedabad,Premium_Loyalist
+1947,32,Female,Seattle,Premium_Loyalist
+1948,46,Female,Hyderabad,Practical_Buyer
+1949,46,Female,Houston,Premium_Loyalist
+1950,28,Male,Seattle,Bargain_Hunter
+1951,69,Male,New York,Premium_Loyalist
+1952,49,Male,Delhi,Practical_Buyer
+1953,19,Male,Chennai,Trend_Setter
+1954,64,Female,New York,Practical_Buyer
+1955,31,Male,Chicago,Premium_Loyalist
+1956,37,Female,Boston,Premium_Loyalist
+1957,39,Male,Boston,Practical_Buyer
+1958,28,Female,Bangalore,Trend_Setter
+1959,44,Female,Houston,Premium_Loyalist
+1960,20,Female,Seattle,Bargain_Hunter
+1961,34,Male,Pune,Practical_Buyer
+1962,61,Male,Boston,Premium_Loyalist
+1963,45,Male,Denver,Premium_Loyalist
+1964,46,Male,Bangalore,Practical_Buyer
+1965,38,Male,Denver,Premium_Loyalist
+1966,64,Male,Kolkata,Practical_Buyer
+1967,33,Male,Houston,Premium_Loyalist
+1968,54,Female,Mumbai,Premium_Loyalist
+1969,37,Male,Chennai,Practical_Buyer
+1970,23,Female,Delhi,Trend_Setter
+1971,36,Male,Seattle,Premium_Loyalist
+1972,22,Female,Hyderabad,Trend_Setter
+1973,20,Female,Chennai,Trend_Setter
+1974,18,Female,Bangalore,Trend_Setter
+1975,55,Female,Chicago,Practical_Buyer
+1976,32,Male,Miami,Premium_Loyalist
+1977,51,Female,Miami,Premium_Loyalist
+1978,52,Male,Hyderabad,Practical_Buyer
+1979,66,Male,Miami,Premium_Loyalist
+1980,42,Female,Boston,Premium_Loyalist
+1981,41,Female,Ahmedabad,Premium_Loyalist
+1982,29,Male,Mumbai,Bargain_Hunter
+1983,35,Female,Kolkata,Premium_Loyalist
+1984,32,Female,Mumbai,Premium_Loyalist
+1985,61,Male,Kolkata,Premium_Loyalist
+1986,33,Male,Seattle,Premium_Loyalist
+1987,44,Male,Seattle,Premium_Loyalist
+1988,25,Male,Mumbai,Trend_Setter
+1989,63,Male,Houston,Premium_Loyalist
+1990,42,Male,Seattle,Practical_Buyer
+1991,34,Male,Houston,Premium_Loyalist
+1992,46,Female,Bangalore,Premium_Loyalist
+1993,25,Female,Ahmedabad,Trend_Setter
+1994,32,Other,New York,Premium_Loyalist
+1995,44,Male,Denver,Premium_Loyalist
+1996,63,Female,Hyderabad,Premium_Loyalist
+1997,67,Female,Delhi,Premium_Loyalist
+1998,69,Female,Bangalore,Practical_Buyer
+1999,24,Male,Chennai,Trend_Setter
+2000,20,Female,Seattle,Trend_Setter
