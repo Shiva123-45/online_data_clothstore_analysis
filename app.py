@@ -16,19 +16,29 @@ st.markdown("Welcome to the Ultimate Retail Intelligence Engine. We've combined 
 # --- Load Data Engine ---
 @st.cache_data
 def load_data():
-    try:
-        customers = pd.read_csv('data/customers.csv')
-        products = pd.read_csv('data/products.csv')
-        transactions = pd.read_csv('data/transactions.csv')
+    # Helper to check paths (GitHub sometimes flattens folders)
+    paths = ['data/', '']
+    customers, products, transactions = None, None, None
+    
+    for p in paths:
+        try:
+            customers = pd.read_csv(f'{p}customers.csv')
+            products = pd.read_csv(f'{p}products.csv')
+            transactions = pd.read_csv(f'{p}transactions.csv')
+            break # Found them!
+        except FileNotFoundError:
+            continue
+            
+    if customers is not None:
         transactions['Date'] = pd.to_datetime(transactions['Date'])
         # Handle discounts
         if transactions['Discount_Applied'].dtype == 'O':
             transactions['Discount_Applied'] = transactions['Discount_Applied'].str.replace('%', '', regex=False).astype(float) / 100
         transactions['Total_Revenue'] = transactions['Quantity'] * transactions['Total_Amount_Paid']
         return customers, products, transactions
-    except FileNotFoundError:
-        st.error("Data files not found. Please run generate_data.py first.")
-        return None, None, None
+    
+    st.error("🚨 Data files (customers.csv, etc.) not found! Please ensure they are uploaded to your GitHub repository.")
+    return None, None, None
 
 customers, products, transactions = load_data()
 
