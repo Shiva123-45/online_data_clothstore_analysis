@@ -16,20 +16,35 @@ st.markdown("Welcome to the Ultimate Retail Intelligence Engine. We've combined 
 # --- Load Data Engine ---
 @st.cache_data
 def load_data():
-    # Helper to check paths (GitHub sometimes flattens folders)
+    # List of files we absolutely need
+    required_files = ['customers.csv', 'products.csv', 'transactions.csv']
     paths = ['data/', '']
-    customers, products, transactions = None, None, None
     
-    for p in paths:
-        try:
-            customers = pd.read_csv(f'{p}customers.csv')
-            products = pd.read_csv(f'{p}products.csv')
-            transactions = pd.read_csv(f'{p}transactions.csv')
-            break # Found them!
-        except FileNotFoundError:
-            continue
+    # Try loading each file
+    loaded_dfs = {}
+    missing_files = []
+    
+    for filename in required_files:
+        found = False
+        for p in paths:
+            file_path = f"{p}{filename}"
+            # On Linux (Streamlit Cloud), filenames are case-sensitive!
+            if os.path.exists(file_path):
+                try:
+                    loaded_dfs[filename] = pd.read_csv(file_path)
+                    found = True
+                    break
+                except Exception as e:
+                    st.warning(f"Error reading {file_path}: {e}")
+        
+        if not found:
+            missing_files.append(filename)
             
-    if customers is not None:
+    if not missing_files:
+        customers = loaded_dfs['customers.csv']
+        products = loaded_dfs['products.csv']
+        transactions = loaded_dfs['transactions.csv']
+        
         transactions['Date'] = pd.to_datetime(transactions['Date'])
         # Handle discounts
         if transactions['Discount_Applied'].dtype == 'O':
@@ -37,7 +52,9 @@ def load_data():
         transactions['Total_Revenue'] = transactions['Quantity'] * transactions['Total_Amount_Paid']
         return customers, products, transactions
     
-    st.error("🚨 Data files (customers.csv, etc.) not found! Please ensure they are uploaded to your GitHub repository.")
+    # If we get here, something is missing
+    st.error(f"🚨 Missing critical data files: {', '.join(missing_files)}")
+    st.info("💡 **Check GitHub:** Ensure these files are uploaded to your repository. Remember that Linux (Cloud) is case-sensitive (e.g., 'customers.csv' is NOT the same as 'Customers.csv').")
     return None, None, None
 
 customers, products, transactions = load_data()
